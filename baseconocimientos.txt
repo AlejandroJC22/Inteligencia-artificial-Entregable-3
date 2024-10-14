@@ -1,0 +1,1215 @@
+Origen,Destino,Paradas
+Heroes,Calle 85,Heroes-Calle 85
+Heroes,Virrey,Heroes-Calle 85-Virrey
+Heroes,Calle 100,Heroes-Calle 85-Virrey-Calle 100
+Heroes,Calle 106,Heroes-Calle 85-Virrey-Calle 100-Calle 106
+Heroes,Pepe Sierra,Heroes-Calle 85-Virrey-Calle 100-Calle 106-Pepe Sierra
+Heroes,Calle 127,Heroes-Calle 85-Virrey-Calle 100-Calle 106-Pepe Sierra-Calle 127
+Heroes,Prado,Heroes-Calle 85-Virrey-Calle 100-Calle 106-Pepe Sierra-Calle 127-Prado
+Heroes,Alcala,Heroes-Calle 85-Virrey-Calle 100-Calle 106-Pepe Sierra-Calle 127-Prado-Alcala
+Heroes,Calle 142,Heroes-Calle 85-Virrey-Calle 100-Calle 106-Pepe Sierra-Calle 127-Prado-Alcala-Calle 142
+Heroes,Calle 146,Heroes-Calle 85-Virrey-Calle 100-Calle 106-Pepe Sierra-Calle 127-Prado-Alcala-Calle 142-Calle 146
+Heroes,Mazuren,Heroes-Calle 85-Virrey-Calle 100-Calle 106-Pepe Sierra-Calle 127-Prado-Alcala-Calle 142-Calle 146-Mazuren
+Heroes,Toberin,Heroes-Calle 85-Virrey-Calle 100-Calle 106-Pepe Sierra-Calle 127-Prado-Alcala-Calle 142-Calle 146-Mazuren-Toberin
+Heroes,Portal del Norte,Heroes-Calle 85-Virrey-Calle 100-Calle 106-Pepe Sierra-Calle 127-Prado-Alcala-Calle 142-Calle 146-Mazuren-Toberin-Portal del Norte
+Heroes,Calle 187,Heroes-Calle 85-Virrey-Calle 100-Calle 106-Pepe Sierra-Calle 127-Prado-Alcala-Calle 142-Calle 146-Mazuren-Toberin-Portal del Norte-Calle 187
+Heroes,Terminal,Heroes-Calle 85-Virrey-Calle 100-Calle 106-Pepe Sierra-Calle 127-Prado-Alcala-Calle 142-Calle 146-Mazuren-Toberin-Portal del Norte-Calle 187-Terminal
+Calle 85,Virrey,Calle 85-Virrey
+Calle 85,Calle 100,Calle 85-Virrey-Calle 100
+Calle 85,Calle 106,Calle 85-Virrey-Calle 100-Calle 106
+Calle 85,Pepe Sierra,Calle 85-Virrey-Calle 100-Calle 106-Pepe Sierra
+Calle 85,Calle 127,Calle 85-Virrey-Calle 100-Calle 106-Pepe Sierra-Calle 127
+Calle 85,Prado,Calle 85-Virrey-Calle 100-Calle 106-Pepe Sierra-Calle 127-Prado
+Calle 85,Alcala,Calle 85-Virrey-Calle 100-Calle 106-Pepe Sierra-Calle 127-Prado-Alcala
+Calle 85,Calle 142,Calle 85-Virrey-Calle 100-Calle 106-Pepe Sierra-Calle 127-Prado-Alcala-Calle 142
+Calle 85,Calle 146,Calle 85-Virrey-Calle 100-Calle 106-Pepe Sierra-Calle 127-Prado-Alcala-Calle 142-Calle 146
+Calle 85,Mazuren,Calle 85-Virrey-Calle 100-Calle 106-Pepe Sierra-Calle 127-Prado-Alcala-Calle 142-Calle 146-Mazuren
+Calle 85,Toberin,Calle 85-Virrey-Calle 100-Calle 106-Pepe Sierra-Calle 127-Prado-Alcala-Calle 142-Calle 146-Mazuren-Toberin
+Calle 85,Portal del Norte,Calle 85-Virrey-Calle 100-Calle 106-Pepe Sierra-Calle 127-Prado-Alcala-Calle 142-Calle 146-Mazuren-Toberin-Portal del Norte
+Calle 85,Calle 187,Calle 85-Virrey-Calle 100-Calle 106-Pepe Sierra-Calle 127-Prado-Alcala-Calle 142-Calle 146-Mazuren-Toberin-Portal del Norte-Calle 187
+Calle 85,Terminal,Calle 85-Virrey-Calle 100-Calle 106-Pepe Sierra-Calle 127-Prado-Alcala-Calle 142-Calle 146-Mazuren-Toberin-Portal del Norte-Calle 187-Terminal
+Virrey,Calle 100,Virrey-Calle 100
+Virrey,Calle 106,Virrey-Calle 100-Calle 106
+Virrey,Pepe Sierra,Virrey-Calle 100-Calle 106-Pepe Sierra
+Virrey,Calle 127,Virrey-Calle 100-Calle 106-Pepe Sierra-Calle 127
+Virrey,Prado,Virrey-Calle 100-Calle 106-Pepe Sierra-Calle 127-Prado
+Virrey,Alcala,Virrey-Calle 100-Calle 106-Pepe Sierra-Calle 127-Prado-Alcala
+Virrey,Calle 142,Virrey-Calle 100-Calle 106-Pepe Sierra-Calle 127-Prado-Alcala-Calle 142
+Virrey,Calle 146,Virrey-Calle 100-Calle 106-Pepe Sierra-Calle 127-Prado-Alcala-Calle 142-Calle 146
+Virrey,Mazuren,Virrey-Calle 100-Calle 106-Pepe Sierra-Calle 127-Prado-Alcala-Calle 142-Calle 146-Mazuren
+Virrey,Toberin,Virrey-Calle 100-Calle 106-Pepe Sierra-Calle 127-Prado-Alcala-Calle 142-Calle 146-Mazuren-Toberin
+Virrey,Portal del Norte,Virrey-Calle 100-Calle 106-Pepe Sierra-Calle 127-Prado-Alcala-Calle 142-Calle 146-Mazuren-Toberin-Portal del Norte
+Virrey,Calle 187,Virrey-Calle 100-Calle 106-Pepe Sierra-Calle 127-Prado-Alcala-Calle 142-Calle 146-Mazuren-Toberin-Portal del Norte-Calle 187
+Virrey,Terminal,Virrey-Calle 100-Calle 106-Pepe Sierra-Calle 127-Prado-Alcala-Calle 142-Calle 146-Mazuren-Toberin-Portal del Norte-Calle 187-Terminal
+Calle 100,Calle 106,Calle 100-Calle 106
+Calle 100,Pepe Sierra,Calle 100-Calle 106-Pepe Sierra
+Calle 100,Calle 127,Calle 100-Calle 106-Pepe Sierra-Calle 127
+Calle 100,Prado,Calle 100-Calle 106-Pepe Sierra-Calle 127-Prado
+Calle 100,Alcala,Calle 100-Calle 106-Pepe Sierra-Calle 127-Prado-Alcala
+Calle 100,Calle 142,Calle 100-Calle 106-Pepe Sierra-Calle 127-Prado-Alcala-Calle 142
+Calle 100,Calle 146,Calle 100-Calle 106-Pepe Sierra-Calle 127-Prado-Alcala-Calle 142-Calle 146
+Calle 100,Mazuren,Calle 100-Calle 106-Pepe Sierra-Calle 127-Prado-Alcala-Calle 142-Calle 146-Mazuren
+Calle 100,Toberin,Calle 100-Calle 106-Pepe Sierra-Calle 127-Prado-Alcala-Calle 142-Calle 146-Mazuren-Toberin
+Calle 100,Portal del Norte,Calle 100-Calle 106-Pepe Sierra-Calle 127-Prado-Alcala-Calle 142-Calle 146-Mazuren-Toberin-Portal del Norte
+Calle 100,Calle 187,Calle 100-Calle 106-Pepe Sierra-Calle 127-Prado-Alcala-Calle 142-Calle 146-Mazuren-Toberin-Portal del Norte-Calle 187
+Calle 100,Terminal,Calle 100-Calle 106-Pepe Sierra-Calle 127-Prado-Alcala-Calle 142-Calle 146-Mazuren-Toberin-Portal del Norte-Calle 187-Terminal
+Calle 106,Pepe Sierra,Calle 106-Pepe Sierra
+Calle 106,Calle 127,Calle 106-Pepe Sierra-Calle 127
+Calle 106,Prado,Calle 106-Pepe Sierra-Calle 127-Prado
+Calle 106,Alcala,Calle 106-Pepe Sierra-Calle 127-Prado-Alcala
+Calle 106,Calle 142,Calle 106-Pepe Sierra-Calle 127-Prado-Alcala-Calle 142
+Calle 106,Calle 146,Calle 106-Pepe Sierra-Calle 127-Prado-Alcala-Calle 142-Calle 146
+Calle 106,Mazuren,Calle 106-Pepe Sierra-Calle 127-Prado-Alcala-Calle 142-Calle 146-Mazuren
+Calle 106,Toberin,Calle 106-Pepe Sierra-Calle 127-Prado-Alcala-Calle 142-Calle 146-Mazuren-Toberin
+Calle 106,Portal del Norte,Calle 106-Pepe Sierra-Calle 127-Prado-Alcala-Calle 142-Calle 146-Mazuren-Toberin-Portal del Norte
+Calle 106,Calle 187,Calle 106-Pepe Sierra-Calle 127-Prado-Alcala-Calle 142-Calle 146-Mazuren-Toberin-Portal del Norte-Calle 187
+Calle 106,Terminal,Calle 106-Pepe Sierra-Calle 127-Prado-Alcala-Calle 142-Calle 146-Mazuren-Toberin-Portal del Norte-Calle 187-Terminal
+Pepe Sierra,Calle 127,Pepe Sierra-Calle 127
+Pepe Sierra,Prado,Pepe Sierra-Calle 127-Prado
+Pepe Sierra,Alcala,Pepe Sierra-Calle 127-Prado-Alcala
+Pepe Sierra,Calle 142,Pepe Sierra-Calle 127-Prado-Alcala-Calle 142
+Pepe Sierra,Calle 146,Pepe Sierra-Calle 127-Prado-Alcala-Calle 142-Calle 146
+Pepe Sierra,Mazuren,Pepe Sierra-Calle 127-Prado-Alcala-Calle 142-Calle 146-Mazuren
+Pepe Sierra,Toberin,Pepe Sierra-Calle 127-Prado-Alcala-Calle 142-Calle 146-Mazuren-Toberin
+Pepe Sierra,Portal del Norte,Pepe Sierra-Calle 127-Prado-Alcala-Calle 142-Calle 146-Mazuren-Toberin-Portal del Norte
+Pepe Sierra,Calle 187,Pepe Sierra-Calle 127-Prado-Alcala-Calle 142-Calle 146-Mazuren-Toberin-Portal del Norte-Calle 187
+Pepe Sierra,Terminal,Pepe Sierra-Calle 127-Prado-Alcala-Calle 142-Calle 146-Mazuren-Toberin-Portal del Norte-Calle 187-Terminal
+Calle 127,Prado,Calle 127-Prado
+Calle 127,Alcala,Calle 127-Prado-Alcala
+Calle 127,Calle 142,Calle 127-Prado-Alcala-Calle 142
+Calle 127,Calle 146,Calle 127-Prado-Alcala-Calle 142-Calle 146
+Calle 127,Mazuren,Calle 127-Prado-Alcala-Calle 142-Calle 146-Mazuren
+Calle 127,Toberin,Calle 127-Prado-Alcala-Calle 142-Calle 146-Mazuren-Toberin
+Calle 127,Portal del Norte,Calle 127-Prado-Alcala-Calle 142-Calle 146-Mazuren-Toberin-Portal del Norte
+Calle 127,Calle 187,Calle 127-Prado-Alcala-Calle 142-Calle 146-Mazuren-Toberin-Portal del Norte-Calle 187
+Calle 127,Terminal,Calle 127-Prado-Alcala-Calle 142-Calle 146-Mazuren-Toberin-Portal del Norte-Calle 187-Terminal
+Prado,Alcala,Prado-Alcala
+Prado,Calle 142,Prado-Alcala-Calle 142
+Prado,Calle 146,Prado-Alcala-Calle 142-Calle 146
+Prado,Mazuren,Prado-Alcala-Calle 142-Calle 146-Mazuren
+Prado,Toberin,Prado-Alcala-Calle 142-Calle 146-Mazuren-Toberin
+Prado,Portal del Norte,Prado-Alcala-Calle 142-Calle 146-Mazuren-Toberin-Portal del Norte
+Prado,Calle 187,Prado-Alcala-Calle 142-Calle 146-Mazuren-Toberin-Portal del Norte-Calle 187
+Prado,Terminal,Prado-Alcala-Calle 142-Calle 146-Mazuren-Toberin-Portal del Norte-Calle 187-Terminal
+Alcala,Calle 142,Alcala-Calle 142
+Alcala,Calle 146,Alcala-Calle 142-Calle 146
+Alcala,Mazuren,Alcala-Calle 142-Calle 146-Mazuren
+Alcala,Toberin,Alcala-Calle 142-Calle 146-Mazuren-Toberin
+Alcala,Portal del Norte,Alcala-Calle 142-Calle 146-Mazuren-Toberin-Portal del Norte
+Alcala,Calle 187,Alcala-Calle 142-Calle 146-Mazuren-Toberin-Portal del Norte-Calle 187
+Alcala,Terminal,Alcala-Calle 142-Calle 146-Mazuren-Toberin-Portal del Norte-Calle 187-Terminal
+Calle 142,Calle 146,Calle 142-Calle 146
+Calle 142,Mazuren,Calle 142-Calle 146-Mazuren
+Calle 142,Toberin,Calle 142-Calle 146-Mazuren-Toberin
+Calle 142,Portal del Norte,Calle 142-Calle 146-Mazuren-Toberin-Portal del Norte
+Calle 142,Calle 187,Calle 142-Calle 146-Mazuren-Toberin-Portal del Norte-Calle 187
+Calle 142,Terminal,Calle 142-Calle 146-Mazuren-Toberin-Portal del Norte-Calle 187-Terminal
+Calle 146,Mazuren,Calle 146-Mazuren
+Calle 146,Toberin,Calle 146-Mazuren-Toberin
+Calle 146,Portal del Norte,Calle 146-Mazuren-Toberin-Portal del Norte
+Calle 146,Calle 187,Calle 146-Mazuren-Toberin-Portal del Norte-Calle 187
+Calle 146,Terminal,Calle 146-Mazuren-Toberin-Portal del Norte-Calle 187-Terminal
+Mazuren,Toberin,Mazuren-Toberin
+Mazuren,Portal del Norte,Mazuren-Toberin-Portal del Norte
+Mazuren,Calle 187,Mazuren-Toberin-Portal del Norte-Calle 187
+Mazuren,Terminal,Mazuren-Toberin-Portal del Norte-Calle 187-Terminal
+Toberin,Portal del Norte,Toberin-Portal del Norte
+Toberin,Calle 187,Toberin-Portal del Norte-Calle 187
+Toberin,Terminal,Toberin-Portal del Norte-Calle 187-Terminal
+Portal del Norte,Calle 187,Portal del Norte-Calle 187
+Portal del Norte,Terminal,Portal del Norte-Calle 187-Terminal
+Calle 187,Terminal,Calle 187-Terminal
+Heroes,Calle 76,Heroes-Calle 76
+Heroes,Calle 72,Heroes-Calle 76-Calle 72
+Heroes,Marly,Heroes-Calle 76-Calle 72-Marly
+Heroes,Calle 45,Heroes-Calle 76-Calle 72-Marly-Calle 45
+Heroes,AV 39,Heroes-Calle 76-Calle 72-Marly-Calle 45-AV 39
+Heroes,Profamilia,Heroes-Calle 76-Calle 72-Marly-Calle 45-AV 39-Profamilia
+Heroes,Calle 26,Heroes-Calle 76-Calle 72-Marly-Calle 45-AV 39-Profamilia-Calle 26
+Heroes,Calle 19,Heroes-Calle 76-Calle 72-Marly-Calle 45-AV 39-Profamilia-Calle 26-Calle 19
+Heroes,AV Jimenez,Heroes-Calle 76-Calle 72-Marly-Calle 45-AV 39-Profamilia-Calle 26-Calle 19-AV Jimenez
+Heroes,Tercer Milenio,Heroes-Calle 76-Calle 72-Marly-Calle 45-AV 39-Profamilia-Calle 26-Calle 19-AV Jimenez-Tercer Milenio
+Calle 76,Calle 72,Calle 76-Calle 72
+Calle 76,Marly,Calle 76-Calle 72-Marly
+Calle 76,Calle 45,Calle 76-Calle 72-Marly-Calle 45
+Calle 76,AV 39,Calle 76-Calle 72-Marly-Calle 45-AV 39
+Calle 76,Profamilia,Calle 76-Calle 72-Marly-Calle 45-AV 39-Profamilia
+Calle 76,Calle 26,Calle 76-Calle 72-Marly-Calle 45-AV 39-Profamilia-Calle 26
+Calle 76,Calle 19,Calle 76-Calle 72-Marly-Calle 45-AV 39-Profamilia-Calle 26-Calle 19
+Calle 76,AV Jimenez,Calle 76-Calle 72-Marly-Calle 45-AV 39-Profamilia-Calle 26-Calle 19-AV Jimenez
+Calle 76,Tercer Milenio,Calle 76-Calle 72-Marly-Calle 45-AV 39-Profamilia-Calle 26-Calle 19-AV Jimenez-Tercer Milenio
+Calle 72,Marly,Calle 72-Marly
+Calle 72,Calle 45,Calle 72-Marly-Calle 45
+Calle 72,AV 39,Calle 72-Marly-Calle 45-AV 39
+Calle 72,Profamilia,Calle 72-Marly-Calle 45-AV 39-Profamilia
+Calle 72,Calle 26,Calle 72-Marly-Calle 45-AV 39-Profamilia-Calle 26
+Calle 72,Calle 19,Calle 72-Marly-Calle 45-AV 39-Profamilia-Calle 26-Calle 19
+Calle 72,AV Jimenez,Calle 72-Marly-Calle 45-AV 39-Profamilia-Calle 26-Calle 19-AV Jimenez
+Calle 72,Tercer Milenio,Calle 72-Marly-Calle 45-AV 39-Profamilia-Calle 26-Calle 19-AV Jimenez-Tercer Milenio
+Marly,Calle 45,Marly-Calle 45
+Marly,AV 39,Marly-Calle 45-AV 39
+Marly,Profamilia,Marly-Calle 45-AV 39-Profamilia
+Marly,Calle 26,Marly-Calle 45-AV 39-Profamilia-Calle 26
+Marly,Calle 19,Marly-Calle 45-AV 39-Profamilia-Calle 26-Calle 19
+Marly,AV Jimenez,Marly-Calle 45-AV 39-Profamilia-Calle 26-Calle 19-AV Jimenez
+Marly,Tercer Milenio,Marly-Calle 45-AV 39-Profamilia-Calle 26-Calle 19-AV Jimenez-Tercer Milenio
+Calle 45,AV 39,Calle 45-AV 39
+Calle 45,Profamilia,Calle 45-AV 39-Profamilia
+Calle 45,Calle 26,Calle 45-AV 39-Profamilia-Calle 26
+Calle 45,Calle 19,Calle 45-AV 39-Profamilia-Calle 26-Calle 19
+Calle 45,AV Jimenez,Calle 45-AV 39-Profamilia-Calle 26-Calle 19-AV Jimenez
+Calle 45,Tercer Milenio,Calle 45-AV 39-Profamilia-Calle 26-Calle 19-AV Jimenez-Tercer Milenio
+AV 39,Profamilia,AV 39-Profamilia
+AV 39,Calle 26,AV 39-Profamilia-Calle 26
+AV 39,Calle 19,AV 39-Profamilia-Calle 26-Calle 19
+AV 39,AV Jimenez,AV 39-Profamilia-Calle 26-Calle 19-AV Jimenez
+AV 39,Tercer Milenio,AV 39-Profamilia-Calle 26-Calle 19-AV Jimenez-Tercer Milenio
+Profamilia,Calle 26,Profamilia-Calle 26
+Profamilia,Calle 19,Profamilia-Calle 26-Calle 19
+Profamilia,AV Jimenez,Profamilia-Calle 26-Calle 19-AV Jimenez
+Profamilia,Tercer Milenio,Profamilia-Calle 26-Calle 19-AV Jimenez-Tercer Milenio
+Calle 26,Calle 19,Calle 26-Calle 19
+Calle 26,AV Jimenez,Calle 26-Calle 19-AV Jimenez
+Calle 26,Tercer Milenio,Calle 26-Calle 19-AV Jimenez-Tercer Milenio
+Calle 19,AV Jimenez,Calle 19-AV Jimenez
+Calle 19,Tercer Milenio,Calle 19-AV Jimenez-Tercer Milenio
+AV Jimenez,Tercer Milenio,AV Jimenez-Tercer Milenio
+Portal de la 80,Quirigua,Portal de la 80-Quirigua
+Portal de la 80,Carrera 90,Portal de la 80-Quirigua-Carrera 90
+Portal de la 80,Avenida Cali,Portal de la 80-Quirigua-Carrera 90-Avenida Cali
+Portal de la 80,Granja Carrera 77,Portal de la 80-Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77
+Portal de la 80,Minuto de Dios,Portal de la 80-Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios
+Portal de la 80,Boyaca,Portal de la 80-Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca
+Portal de la 80,Ferias,Portal de la 80-Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias
+Portal de la 80,Avenida 68,Portal de la 80-Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68
+Portal de la 80,Carrera 53,Portal de la 80-Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53
+Portal de la 80,Carrera 47,Portal de la 80-Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47
+Portal de la 80,Escuela Militar,Portal de la 80-Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar
+Portal de la 80,Polo,Portal de la 80-Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar-Polo
+Portal de la 80,Heroes,Portal de la 80-Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar-Polo-Heroes
+Quirigua,Carrera 90,Quirigua-Carrera 90
+Quirigua,Avenida Cali,Quirigua-Carrera 90-Avenida Cali
+Quirigua,Granja Carrera 77,Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77
+Quirigua,Minuto de Dios,Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios
+Quirigua,Boyaca,Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca
+Quirigua,Ferias,Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias
+Quirigua,Avenida 68,Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68
+Quirigua,Carrera 53,Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53
+Quirigua,Carrera 47,Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47
+Quirigua,Escuela Militar,Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar
+Quirigua,Polo,Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar-Polo
+Quirigua,Heroes,Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar-Polo-Heroes
+Carrera 90,Avenida Cali,Carrera 90-Avenida Cali
+Carrera 90,Granja Carrera 77,Carrera 90-Avenida Cali-Granja Carrera 77
+Carrera 90,Minuto de Dios,Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios
+Carrera 90,Boyaca,Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca
+Carrera 90,Ferias,Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias
+Carrera 90,Avenida 68,Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68
+Carrera 90,Carrera 53,Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53
+Carrera 90,Carrera 47,Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47
+Carrera 90,Escuela Militar,Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar
+Carrera 90,Polo,Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar-Polo
+Carrera 90,Heroes,Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar-Polo-Heroes
+Avenida Cali,Granja Carrera 77,Avenida Cali-Granja Carrera 77
+Avenida Cali,Minuto de Dios,Avenida Cali-Granja Carrera 77-Minuto de Dios
+Avenida Cali,Boyaca,Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca
+Avenida Cali,Ferias,Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias
+Avenida Cali,Avenida 68,Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68
+Avenida Cali,Carrera 53,Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53
+Avenida Cali,Carrera 47,Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47
+Avenida Cali,Escuela Militar,Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar
+Avenida Cali,Polo,Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar-Polo
+Avenida Cali,Heroes,Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar-Polo-Heroes
+Granja Carrera 77,Minuto de Dios,Granja Carrera 77-Minuto de Dios
+Granja Carrera 77,Boyaca,Granja Carrera 77-Minuto de Dios-Boyaca
+Granja Carrera 77,Ferias,Granja Carrera 77-Minuto de Dios-Boyaca-Ferias
+Granja Carrera 77,Avenida 68,Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68
+Granja Carrera 77,Carrera 53,Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53
+Granja Carrera 77,Carrera 47,Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47
+Granja Carrera 77,Escuela Militar,Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar
+Granja Carrera 77,Polo,Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar-Polo
+Granja Carrera 77,Heroes,Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar-Polo-Heroes
+Minuto de Dios,Boyaca,Minuto de Dios-Boyaca
+Minuto de Dios,Ferias,Minuto de Dios-Boyaca-Ferias
+Minuto de Dios,Avenida 68,Minuto de Dios-Boyaca-Ferias-Avenida 68
+Minuto de Dios,Carrera 53,Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53
+Minuto de Dios,Carrera 47,Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47
+Minuto de Dios,Escuela Militar,Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar
+Minuto de Dios,Polo,Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar-Polo
+Minuto de Dios,Heroes,Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar-Polo-Heroes
+Boyaca,Ferias,Boyaca-Ferias
+Boyaca,Avenida 68,Boyaca-Ferias-Avenida 68
+Boyaca,Carrera 53,Boyaca-Ferias-Avenida 68-Carrera 53
+Boyaca,Carrera 47,Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47
+Boyaca,Escuela Militar,Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar
+Boyaca,Polo,Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar-Polo
+Boyaca,Heroes,Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar-Polo-Heroes
+Ferias,Avenida 68,Ferias-Avenida 68
+Ferias,Carrera 53,Ferias-Avenida 68-Carrera 53
+Ferias,Carrera 47,Ferias-Avenida 68-Carrera 53-Carrera 47
+Ferias,Escuela Militar,Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar
+Ferias,Polo,Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar-Polo
+Ferias,Heroes,Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar-Polo-Heroes
+Avenida 68,Carrera 53,Avenida 68-Carrera 53
+Avenida 68,Carrera 47,Avenida 68-Carrera 53-Carrera 47
+Avenida 68,Escuela Militar,Avenida 68-Carrera 53-Carrera 47-Escuela Militar
+Avenida 68,Polo,Avenida 68-Carrera 53-Carrera 47-Escuela Militar-Polo
+Avenida 68,Heroes,Avenida 68-Carrera 53-Carrera 47-Escuela Militar-Polo-Heroes
+Carrera 53,Carrera 47,Carrera 53-Carrera 47
+Carrera 53,Escuela Militar,Carrera 53-Carrera 47-Escuela Militar
+Carrera 53,Polo,Carrera 53-Carrera 47-Escuela Militar-Polo
+Carrera 53,Heroes,Carrera 53-Carrera 47-Escuela Militar-Polo-Heroes
+Carrera 47,Escuela Militar,Carrera 47-Escuela Militar
+Carrera 47,Polo,Carrera 47-Escuela Militar-Polo
+Carrera 47,Heroes,Carrera 47-Escuela Militar-Polo-Heroes
+Escuela Militar,Polo,Escuela Militar-Polo
+Escuela Militar,Heroes,Escuela Militar-Polo-Heroes
+Polo,Heroes,Polo-Heroes
+Portal de Suba,Suba TV 91,Portal de Suba-Suba TV 91
+Portal de Suba,21 Angeles,Portal de Suba-Suba TV 91-21 Angeles
+Portal de Suba,Gratamira,Portal de Suba-Suba TV 91-21 Angeles-Gratamira
+Portal de Suba,Suba AV Boyaca,Portal de Suba-Suba TV 91-21 Angeles-Gratamira-Suba AV Boyaca
+Portal de Suba,Niza CL 127,Portal de Suba-Suba TV 91-21 Angeles-Gratamira-Suba AV Boyaca-Niza CL 127
+Portal de Suba,Humedal Cordoba,Portal de Suba-Suba TV 91-21 Angeles-Gratamira-Suba AV Boyaca-Niza CL 127-Humedal Cordoba
+Portal de Suba,Shaio,Portal de Suba-Suba TV 91-21 Angeles-Gratamira-Suba AV Boyaca-Niza CL 127-Humedal Cordoba-Shaio
+Portal de Suba,Puentelargo,Portal de Suba-Suba TV 91-21 Angeles-Gratamira-Suba AV Boyaca-Niza CL 127-Humedal Cordoba-Shaio-Puentelargo
+Portal de Suba,Suba CL 100,Portal de Suba-Suba TV 91-21 Angeles-Gratamira-Suba AV Boyaca-Niza CL 127-Humedal Cordoba-Shaio-Puentelargo-Suba CL 100
+Portal de Suba,Suba CL 95,Portal de Suba-Suba TV 91-21 Angeles-Gratamira-Suba AV Boyaca-Niza CL 127-Humedal Cordoba-Shaio-Puentelargo-Suba CL 100-Suba CL 95
+Portal de Suba,Rionegro,Portal de Suba-Suba TV 91-21 Angeles-Gratamira-Suba AV Boyaca-Niza CL 127-Humedal Cordoba-Shaio-Puentelargo-Suba CL 100-Suba CL 95-Rionegro
+Portal de Suba,San Martin,Portal de Suba-Suba TV 91-21 Angeles-Gratamira-Suba AV Boyaca-Niza CL 127-Humedal Cordoba-Shaio-Puentelargo-Suba CL 100-Suba CL 95-Rionegro-San Martin
+Portal de Suba,Escuela Militar,Portal de Suba-Suba TV 91-21 Angeles-Gratamira-Suba AV Boyaca-Niza CL 127-Humedal Cordoba-Shaio-Puentelargo-Suba CL 100-Suba CL 95-Rionegro-San Martin-Escuela Militar
+Suba TV 91,21 Angeles,Suba TV 91-21 Angeles
+Suba TV 91,Gratamira,Suba TV 91-21 Angeles-Gratamira
+Suba TV 91,Suba AV Boyaca,Suba TV 91-21 Angeles-Gratamira-Suba AV Boyaca
+Suba TV 91,Niza CL 127,Suba TV 91-21 Angeles-Gratamira-Suba AV Boyaca-Niza CL 127
+Suba TV 91,Humedal Cordoba,Suba TV 91-21 Angeles-Gratamira-Suba AV Boyaca-Niza CL 127-Humedal Cordoba
+Suba TV 91,Shaio,Suba TV 91-21 Angeles-Gratamira-Suba AV Boyaca-Niza CL 127-Humedal Cordoba-Shaio
+Suba TV 91,Puentelargo,Suba TV 91-21 Angeles-Gratamira-Suba AV Boyaca-Niza CL 127-Humedal Cordoba-Shaio-Puentelargo
+Suba TV 91,Suba CL 100,Suba TV 91-21 Angeles-Gratamira-Suba AV Boyaca-Niza CL 127-Humedal Cordoba-Shaio-Puentelargo-Suba CL 100
+Suba TV 91,Suba CL 95,Suba TV 91-21 Angeles-Gratamira-Suba AV Boyaca-Niza CL 127-Humedal Cordoba-Shaio-Puentelargo-Suba CL 100-Suba CL 95
+Suba TV 91,Rionegro,Suba TV 91-21 Angeles-Gratamira-Suba AV Boyaca-Niza CL 127-Humedal Cordoba-Shaio-Puentelargo-Suba CL 100-Suba CL 95-Rionegro
+Suba TV 91,San Martin,Suba TV 91-21 Angeles-Gratamira-Suba AV Boyaca-Niza CL 127-Humedal Cordoba-Shaio-Puentelargo-Suba CL 100-Suba CL 95-Rionegro-San Martin
+Suba TV 91,Escuela Militar,Suba TV 91-21 Angeles-Gratamira-Suba AV Boyaca-Niza CL 127-Humedal Cordoba-Shaio-Puentelargo-Suba CL 100-Suba CL 95-Rionegro-San Martin-Escuela Militar
+21 Angeles,Gratamira,21 Angeles-Gratamira
+21 Angeles,Suba AV Boyaca,21 Angeles-Gratamira-Suba AV Boyaca
+21 Angeles,Niza CL 127,21 Angeles-Gratamira-Suba AV Boyaca-Niza CL 127
+21 Angeles,Humedal Cordoba,21 Angeles-Gratamira-Suba AV Boyaca-Niza CL 127-Humedal Cordoba
+21 Angeles,Shaio,21 Angeles-Gratamira-Suba AV Boyaca-Niza CL 127-Humedal Cordoba-Shaio
+21 Angeles,Puentelargo,21 Angeles-Gratamira-Suba AV Boyaca-Niza CL 127-Humedal Cordoba-Shaio-Puentelargo
+21 Angeles,Suba CL 100,21 Angeles-Gratamira-Suba AV Boyaca-Niza CL 127-Humedal Cordoba-Shaio-Puentelargo-Suba CL 100
+21 Angeles,Suba CL 95,21 Angeles-Gratamira-Suba AV Boyaca-Niza CL 127-Humedal Cordoba-Shaio-Puentelargo-Suba CL 100-Suba CL 95
+21 Angeles,Rionegro,21 Angeles-Gratamira-Suba AV Boyaca-Niza CL 127-Humedal Cordoba-Shaio-Puentelargo-Suba CL 100-Suba CL 95-Rionegro
+21 Angeles,San Martin,21 Angeles-Gratamira-Suba AV Boyaca-Niza CL 127-Humedal Cordoba-Shaio-Puentelargo-Suba CL 100-Suba CL 95-Rionegro-San Martin
+21 Angeles,Escuela Militar,21 Angeles-Gratamira-Suba AV Boyaca-Niza CL 127-Humedal Cordoba-Shaio-Puentelargo-Suba CL 100-Suba CL 95-Rionegro-San Martin-Escuela Militar
+Gratamira,Suba AV Boyaca,Gratamira-Suba AV Boyaca
+Gratamira,Niza CL 127,Gratamira-Suba AV Boyaca-Niza CL 127
+Gratamira,Humedal Cordoba,Gratamira-Suba AV Boyaca-Niza CL 127-Humedal Cordoba
+Gratamira,Shaio,Gratamira-Suba AV Boyaca-Niza CL 127-Humedal Cordoba-Shaio
+Gratamira,Puentelargo,Gratamira-Suba AV Boyaca-Niza CL 127-Humedal Cordoba-Shaio-Puentelargo
+Gratamira,Suba CL 100,Gratamira-Suba AV Boyaca-Niza CL 127-Humedal Cordoba-Shaio-Puentelargo-Suba CL 100
+Gratamira,Suba CL 95,Gratamira-Suba AV Boyaca-Niza CL 127-Humedal Cordoba-Shaio-Puentelargo-Suba CL 100-Suba CL 95
+Gratamira,Rionegro,Gratamira-Suba AV Boyaca-Niza CL 127-Humedal Cordoba-Shaio-Puentelargo-Suba CL 100-Suba CL 95-Rionegro
+Gratamira,San Martin,Gratamira-Suba AV Boyaca-Niza CL 127-Humedal Cordoba-Shaio-Puentelargo-Suba CL 100-Suba CL 95-Rionegro-San Martin
+Gratamira,Escuela Militar,Gratamira-Suba AV Boyaca-Niza CL 127-Humedal Cordoba-Shaio-Puentelargo-Suba CL 100-Suba CL 95-Rionegro-San Martin-Escuela Militar
+Suba AV Boyaca,Niza CL 127,Suba AV Boyaca-Niza CL 127
+Suba AV Boyaca,Humedal Cordoba,Suba AV Boyaca-Niza CL 127-Humedal Cordoba
+Suba AV Boyaca,Shaio,Suba AV Boyaca-Niza CL 127-Humedal Cordoba-Shaio
+Suba AV Boyaca,Puentelargo,Suba AV Boyaca-Niza CL 127-Humedal Cordoba-Shaio-Puentelargo
+Suba AV Boyaca,Suba CL 100,Suba AV Boyaca-Niza CL 127-Humedal Cordoba-Shaio-Puentelargo-Suba CL 100
+Suba AV Boyaca,Suba CL 95,Suba AV Boyaca-Niza CL 127-Humedal Cordoba-Shaio-Puentelargo-Suba CL 100-Suba CL 95
+Suba AV Boyaca,Rionegro,Suba AV Boyaca-Niza CL 127-Humedal Cordoba-Shaio-Puentelargo-Suba CL 100-Suba CL 95-Rionegro
+Suba AV Boyaca,San Martin,Suba AV Boyaca-Niza CL 127-Humedal Cordoba-Shaio-Puentelargo-Suba CL 100-Suba CL 95-Rionegro-San Martin
+Suba AV Boyaca,Escuela Militar,Suba AV Boyaca-Niza CL 127-Humedal Cordoba-Shaio-Puentelargo-Suba CL 100-Suba CL 95-Rionegro-San Martin-Escuela Militar
+Niza CL 127,Humedal Cordoba,Niza CL 127-Humedal Cordoba
+Niza CL 127,Shaio,Niza CL 127-Humedal Cordoba-Shaio
+Niza CL 127,Puentelargo,Niza CL 127-Humedal Cordoba-Shaio-Puentelargo
+Niza CL 127,Suba CL 100,Niza CL 127-Humedal Cordoba-Shaio-Puentelargo-Suba CL 100
+Niza CL 127,Suba CL 95,Niza CL 127-Humedal Cordoba-Shaio-Puentelargo-Suba CL 100-Suba CL 95
+Niza CL 127,Rionegro,Niza CL 127-Humedal Cordoba-Shaio-Puentelargo-Suba CL 100-Suba CL 95-Rionegro
+Niza CL 127,San Martin,Niza CL 127-Humedal Cordoba-Shaio-Puentelargo-Suba CL 100-Suba CL 95-Rionegro-San Martin
+Niza CL 127,Escuela Militar,Niza CL 127-Humedal Cordoba-Shaio-Puentelargo-Suba CL 100-Suba CL 95-Rionegro-San Martin-Escuela Militar
+Humedal Cordoba,Shaio,Humedal Cordoba-Shaio
+Humedal Cordoba,Puentelargo,Humedal Cordoba-Shaio-Puentelargo
+Humedal Cordoba,Suba CL 100,Humedal Cordoba-Shaio-Puentelargo-Suba CL 100
+Humedal Cordoba,Suba CL 95,Humedal Cordoba-Shaio-Puentelargo-Suba CL 100-Suba CL 95
+Humedal Cordoba,Rionegro,Humedal Cordoba-Shaio-Puentelargo-Suba CL 100-Suba CL 95-Rionegro
+Humedal Cordoba,San Martin,Humedal Cordoba-Shaio-Puentelargo-Suba CL 100-Suba CL 95-Rionegro-San Martin
+Humedal Cordoba,Escuela Militar,Humedal Cordoba-Shaio-Puentelargo-Suba CL 100-Suba CL 95-Rionegro-San Martin-Escuela Militar
+Shaio,Puentelargo,Shaio-Puentelargo
+Shaio,Suba CL 100,Shaio-Puentelargo-Suba CL 100
+Shaio,Suba CL 95,Shaio-Puentelargo-Suba CL 100-Suba CL 95
+Shaio,Rionegro,Shaio-Puentelargo-Suba CL 100-Suba CL 95-Rionegro
+Shaio,San Martin,Shaio-Puentelargo-Suba CL 100-Suba CL 95-Rionegro-San Martin
+Shaio,Escuela Militar,Shaio-Puentelargo-Suba CL 100-Suba CL 95-Rionegro-San Martin-Escuela Militar
+Puentelargo,Suba CL 100,Puentelargo-Suba CL 100
+Puentelargo,Suba CL 95,Puentelargo-Suba CL 100-Suba CL 95
+Puentelargo,Rionegro,Puentelargo-Suba CL 100-Suba CL 95-Rionegro
+Puentelargo,San Martin,Puentelargo-Suba CL 100-Suba CL 95-Rionegro-San Martin
+Puentelargo,Escuela Militar,Puentelargo-Suba CL 100-Suba CL 95-Rionegro-San Martin-Escuela Militar
+Suba CL 100,Suba CL 95,Suba CL 100-Suba CL 95
+Suba CL 100,Rionegro,Suba CL 100-Suba CL 95-Rionegro
+Suba CL 100,San Martin,Suba CL 100-Suba CL 95-Rionegro-San Martin
+Suba CL 100,Escuela Militar,Suba CL 100-Suba CL 95-Rionegro-San Martin-Escuela Militar
+Suba CL 95,Rionegro,Suba CL 95-Rionegro
+Suba CL 95,San Martin,Suba CL 95-Rionegro-San Martin
+Suba CL 95,Escuela Militar,Suba CL 95-Rionegro-San Martin-Escuela Militar
+Rionegro,San Martin,Rionegro-San Martin
+Rionegro,Escuela Militar,Rionegro-San Martin-Escuela Militar
+San Martin,Escuela Militar,San Martin-Escuela Militar
+Portal de la 80,Quirigua,Portal de la 80-Quirigua
+Portal de la 80,Carrera 90,Portal de la 80-Quirigua-Carrera 90
+Portal de la 80,Avenida Cali,Portal de la 80-Quirigua-Carrera 90-Avenida Cali
+Portal de la 80,Granja Carrera 77,Portal de la 80-Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77
+Portal de la 80,Minuto de Dios,Portal de la 80-Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios
+Portal de la 80,Boyaca,Portal de la 80-Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca
+Portal de la 80,Ferias,Portal de la 80-Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias
+Portal de la 80,Avenida 68,Portal de la 80-Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68
+Portal de la 80,Carrera 53,Portal de la 80-Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53
+Portal de la 80,Carrera 47,Portal de la 80-Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47
+Portal de la 80,Escuela Militar,Portal de la 80-Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar
+Portal de la 80,Polo,Portal de la 80-Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar-Polo
+Portal de la 80,Heroes,Portal de la 80-Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar-Polo-Heroes
+Quirigua,Carrera 90,Quirigua-Carrera 90
+Quirigua,Avenida Cali,Quirigua-Carrera 90-Avenida Cali
+Quirigua,Granja Carrera 77,Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77
+Quirigua,Minuto de Dios,Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios
+Quirigua,Boyaca,Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca
+Quirigua,Ferias,Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias
+Quirigua,Avenida 68,Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68
+Quirigua,Carrera 53,Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53
+Quirigua,Carrera 47,Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47
+Quirigua,Escuela Militar,Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar
+Quirigua,Polo,Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar-Polo
+Quirigua,Heroes,Quirigua-Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar-Polo-Heroes
+Carrera 90,Avenida Cali,Carrera 90-Avenida Cali
+Carrera 90,Granja Carrera 77,Carrera 90-Avenida Cali-Granja Carrera 77
+Carrera 90,Minuto de Dios,Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios
+Carrera 90,Boyaca,Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca
+Carrera 90,Ferias,Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias
+Carrera 90,Avenida 68,Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68
+Carrera 90,Carrera 53,Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53
+Carrera 90,Carrera 47,Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47
+Carrera 90,Escuela Militar,Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar
+Carrera 90,Polo,Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar-Polo
+Carrera 90,Heroes,Carrera 90-Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar-Polo-Heroes
+Avenida Cali,Granja Carrera 77,Avenida Cali-Granja Carrera 77
+Avenida Cali,Minuto de Dios,Avenida Cali-Granja Carrera 77-Minuto de Dios
+Avenida Cali,Boyaca,Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca
+Avenida Cali,Ferias,Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias
+Avenida Cali,Avenida 68,Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68
+Avenida Cali,Carrera 53,Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53
+Avenida Cali,Carrera 47,Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47
+Avenida Cali,Escuela Militar,Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar
+Avenida Cali,Polo,Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar-Polo
+Avenida Cali,Heroes,Avenida Cali-Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar-Polo-Heroes
+Granja Carrera 77,Minuto de Dios,Granja Carrera 77-Minuto de Dios
+Granja Carrera 77,Boyaca,Granja Carrera 77-Minuto de Dios-Boyaca
+Granja Carrera 77,Ferias,Granja Carrera 77-Minuto de Dios-Boyaca-Ferias
+Granja Carrera 77,Avenida 68,Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68
+Granja Carrera 77,Carrera 53,Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53
+Granja Carrera 77,Carrera 47,Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47
+Granja Carrera 77,Escuela Militar,Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar
+Granja Carrera 77,Polo,Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar-Polo
+Granja Carrera 77,Heroes,Granja Carrera 77-Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar-Polo-Heroes
+Minuto de Dios,Boyaca,Minuto de Dios-Boyaca
+Minuto de Dios,Ferias,Minuto de Dios-Boyaca-Ferias
+Minuto de Dios,Avenida 68,Minuto de Dios-Boyaca-Ferias-Avenida 68
+Minuto de Dios,Carrera 53,Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53
+Minuto de Dios,Carrera 47,Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47
+Minuto de Dios,Escuela Militar,Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar
+Minuto de Dios,Polo,Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar-Polo
+Minuto de Dios,Heroes,Minuto de Dios-Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar-Polo-Heroes
+Boyaca,Ferias,Boyaca-Ferias
+Boyaca,Avenida 68,Boyaca-Ferias-Avenida 68
+Boyaca,Carrera 53,Boyaca-Ferias-Avenida 68-Carrera 53
+Boyaca,Carrera 47,Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47
+Boyaca,Escuela Militar,Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar
+Boyaca,Polo,Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar-Polo
+Boyaca,Heroes,Boyaca-Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar-Polo-Heroes
+Ferias,Avenida 68,Ferias-Avenida 68
+Ferias,Carrera 53,Ferias-Avenida 68-Carrera 53
+Ferias,Carrera 47,Ferias-Avenida 68-Carrera 53-Carrera 47
+Ferias,Escuela Militar,Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar
+Ferias,Polo,Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar-Polo
+Ferias,Heroes,Ferias-Avenida 68-Carrera 53-Carrera 47-Escuela Militar-Polo-Heroes
+Avenida 68,Carrera 53,Avenida 68-Carrera 53
+Avenida 68,Carrera 47,Avenida 68-Carrera 53-Carrera 47
+Avenida 68,Escuela Militar,Avenida 68-Carrera 53-Carrera 47-Escuela Militar
+Avenida 68,Polo,Avenida 68-Carrera 53-Carrera 47-Escuela Militar-Polo
+Avenida 68,Heroes,Avenida 68-Carrera 53-Carrera 47-Escuela Militar-Polo-Heroes
+Carrera 53,Carrera 47,Carrera 53-Carrera 47
+Carrera 53,Escuela Militar,Carrera 53-Carrera 47-Escuela Militar
+Carrera 53,Polo,Carrera 53-Carrera 47-Escuela Militar-Polo
+Carrera 53,Heroes,Carrera 53-Carrera 47-Escuela Militar-Polo-Heroes
+Carrera 47,Escuela Militar,Carrera 47-Escuela Militar
+Carrera 47,Polo,Carrera 47-Escuela Militar-Polo
+Carrera 47,Heroes,Carrera 47-Escuela Militar-Polo-Heroes
+Escuela Militar,Polo,Escuela Militar-Polo
+Escuela Militar,Heroes,Escuela Militar-Polo-Heroes
+Polo,Heroes,Polo-Heroes
+Calle 100,La Castellana,Calle 100-La Castellana
+Calle 100,NQS Calle 75,Calle 100-La Castellana-NQS Calle 75
+Calle 100,AV Chile,Calle 100-La Castellana-NQS Calle 75-AV Chile
+Calle 100,Simon Bolivar,Calle 100-La Castellana-NQS Calle 75-AV Chile-Simon Bolivar
+Calle 100,Coliceo,Calle 100-La Castellana-NQS Calle 75-AV Chile-Simon Bolivar-Coliceo
+Calle 100,Campin,Calle 100-La Castellana-NQS Calle 75-AV Chile-Simon Bolivar-Coliceo-Campin
+Calle 100,U Nacional,Calle 100-La Castellana-NQS Calle 75-AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional
+Calle 100,AV El Dorado,Calle 100-La Castellana-NQS Calle 75-AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado
+Calle 100,CAD,Calle 100-La Castellana-NQS Calle 75-AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD
+Calle 100,Paloquemao,Calle 100-La Castellana-NQS Calle 75-AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao
+Calle 100,Ricaurte,Calle 100-La Castellana-NQS Calle 75-AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte
+Calle 100,Comuneros,Calle 100-La Castellana-NQS Calle 75-AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros
+Calle 100,Guatoque,Calle 100-La Castellana-NQS Calle 75-AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros-Guatoque
+Calle 100,San Jose,Calle 100-La Castellana-NQS Calle 75-AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros-Guatoque-San Jose
+Calle 100,Hospital,Calle 100-La Castellana-NQS Calle 75-AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros-Guatoque-San Jose-Hospital
+Calle 100,Bicentenario,Calle 100-La Castellana-NQS Calle 75-AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros-Guatoque-San Jose-Hospital-Bicentenario
+La Castellana,NQS Calle 75,La Castellana-NQS Calle 75
+La Castellana,AV Chile,La Castellana-NQS Calle 75-AV Chile
+La Castellana,Simon Bolivar,La Castellana-NQS Calle 75-AV Chile-Simon Bolivar
+La Castellana,Coliceo,La Castellana-NQS Calle 75-AV Chile-Simon Bolivar-Coliceo
+La Castellana,Campin,La Castellana-NQS Calle 75-AV Chile-Simon Bolivar-Coliceo-Campin
+La Castellana,U Nacional,La Castellana-NQS Calle 75-AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional
+La Castellana,AV El Dorado,La Castellana-NQS Calle 75-AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado
+La Castellana,CAD,La Castellana-NQS Calle 75-AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD
+La Castellana,Paloquemao,La Castellana-NQS Calle 75-AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao
+La Castellana,Ricaurte,La Castellana-NQS Calle 75-AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte
+La Castellana,Comuneros,La Castellana-NQS Calle 75-AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros
+La Castellana,Guatoque,La Castellana-NQS Calle 75-AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros-Guatoque
+La Castellana,San Jose,La Castellana-NQS Calle 75-AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros-Guatoque-San Jose
+La Castellana,Hospital,La Castellana-NQS Calle 75-AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros-Guatoque-San Jose-Hospital
+La Castellana,Bicentenario,La Castellana-NQS Calle 75-AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros-Guatoque-San Jose-Hospital-Bicentenario
+NQS Calle 75,AV Chile,NQS Calle 75-AV Chile
+NQS Calle 75,Simon Bolivar,NQS Calle 75-AV Chile-Simon Bolivar
+NQS Calle 75,Coliceo,NQS Calle 75-AV Chile-Simon Bolivar-Coliceo
+NQS Calle 75,Campin,NQS Calle 75-AV Chile-Simon Bolivar-Coliceo-Campin
+NQS Calle 75,U Nacional,NQS Calle 75-AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional
+NQS Calle 75,AV El Dorado,NQS Calle 75-AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado
+NQS Calle 75,CAD,NQS Calle 75-AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD
+NQS Calle 75,Paloquemao,NQS Calle 75-AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao
+NQS Calle 75,Ricaurte,NQS Calle 75-AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte
+NQS Calle 75,Comuneros,NQS Calle 75-AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros
+NQS Calle 75,Guatoque,NQS Calle 75-AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros-Guatoque
+NQS Calle 75,San Jose,NQS Calle 75-AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros-Guatoque-San Jose
+NQS Calle 75,Hospital,NQS Calle 75-AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros-Guatoque-San Jose-Hospital
+NQS Calle 75,Bicentenario,NQS Calle 75-AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros-Guatoque-San Jose-Hospital-Bicentenario
+AV Chile,Simon Bolivar,AV Chile-Simon Bolivar
+AV Chile,Coliceo,AV Chile-Simon Bolivar-Coliceo
+AV Chile,Campin,AV Chile-Simon Bolivar-Coliceo-Campin
+AV Chile,U Nacional,AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional
+AV Chile,AV El Dorado,AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado
+AV Chile,CAD,AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD
+AV Chile,Paloquemao,AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao
+AV Chile,Ricaurte,AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte
+AV Chile,Comuneros,AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros
+AV Chile,Guatoque,AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros-Guatoque
+AV Chile,San Jose,AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros-Guatoque-San Jose
+AV Chile,Hospital,AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros-Guatoque-San Jose-Hospital
+AV Chile,Bicentenario,AV Chile-Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros-Guatoque-San Jose-Hospital-Bicentenario
+Simon Bolivar,Coliceo,Simon Bolivar-Coliceo
+Simon Bolivar,Campin,Simon Bolivar-Coliceo-Campin
+Simon Bolivar,U Nacional,Simon Bolivar-Coliceo-Campin-U Nacional
+Simon Bolivar,AV El Dorado,Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado
+Simon Bolivar,CAD,Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD
+Simon Bolivar,Paloquemao,Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao
+Simon Bolivar,Ricaurte,Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte
+Simon Bolivar,Comuneros,Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros
+Simon Bolivar,Guatoque,Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros-Guatoque
+Simon Bolivar,San Jose,Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros-Guatoque-San Jose
+Simon Bolivar,Hospital,Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros-Guatoque-San Jose-Hospital
+Simon Bolivar,Bicentenario,Simon Bolivar-Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros-Guatoque-San Jose-Hospital-Bicentenario
+Coliceo,Campin,Coliceo-Campin
+Coliceo,U Nacional,Coliceo-Campin-U Nacional
+Coliceo,AV El Dorado,Coliceo-Campin-U Nacional-AV El Dorado
+Coliceo,CAD,Coliceo-Campin-U Nacional-AV El Dorado-CAD
+Coliceo,Paloquemao,Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao
+Coliceo,Ricaurte,Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte
+Coliceo,Comuneros,Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros
+Coliceo,Guatoque,Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros-Guatoque
+Coliceo,San Jose,Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros-Guatoque-San Jose
+Coliceo,Hospital,Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros-Guatoque-San Jose-Hospital
+Coliceo,Bicentenario,Coliceo-Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros-Guatoque-San Jose-Hospital-Bicentenario
+Campin,U Nacional,Campin-U Nacional
+Campin,AV El Dorado,Campin-U Nacional-AV El Dorado
+Campin,CAD,Campin-U Nacional-AV El Dorado-CAD
+Campin,Paloquemao,Campin-U Nacional-AV El Dorado-CAD-Paloquemao
+Campin,Ricaurte,Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte
+Campin,Comuneros,Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros
+Campin,Guatoque,Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros-Guatoque
+Campin,San Jose,Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros-Guatoque-San Jose
+Campin,Hospital,Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros-Guatoque-San Jose-Hospital
+Campin,Bicentenario,Campin-U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros-Guatoque-San Jose-Hospital-Bicentenario
+U Nacional,AV El Dorado,U Nacional-AV El Dorado
+U Nacional,CAD,U Nacional-AV El Dorado-CAD
+U Nacional,Paloquemao,U Nacional-AV El Dorado-CAD-Paloquemao
+U Nacional,Ricaurte,U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte
+U Nacional,Comuneros,U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros
+U Nacional,Guatoque,U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros-Guatoque
+U Nacional,San Jose,U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros-Guatoque-San Jose
+U Nacional,Hospital,U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros-Guatoque-San Jose-Hospital
+U Nacional,Bicentenario,U Nacional-AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros-Guatoque-San Jose-Hospital-Bicentenario
+AV El Dorado,CAD,AV El Dorado-CAD
+AV El Dorado,Paloquemao,AV El Dorado-CAD-Paloquemao
+AV El Dorado,Ricaurte,AV El Dorado-CAD-Paloquemao-Ricaurte
+AV El Dorado,Comuneros,AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros
+AV El Dorado,Guatoque,AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros-Guatoque
+AV El Dorado,San Jose,AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros-Guatoque-San Jose
+AV El Dorado,Hospital,AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros-Guatoque-San Jose-Hospital
+AV El Dorado,Bicentenario,AV El Dorado-CAD-Paloquemao-Ricaurte-Comuneros-Guatoque-San Jose-Hospital-Bicentenario
+CAD,Paloquemao,CAD-Paloquemao
+CAD,Ricaurte,CAD-Paloquemao-Ricaurte
+CAD,Comuneros,CAD-Paloquemao-Ricaurte-Comuneros
+CAD,Guatoque,CAD-Paloquemao-Ricaurte-Comuneros-Guatoque
+CAD,San Jose,CAD-Paloquemao-Ricaurte-Comuneros-Guatoque-San Jose
+CAD,Hospital,CAD-Paloquemao-Ricaurte-Comuneros-Guatoque-San Jose-Hospital
+CAD,Bicentenario,CAD-Paloquemao-Ricaurte-Comuneros-Guatoque-San Jose-Hospital-Bicentenario
+Paloquemao,Ricaurte,Paloquemao-Ricaurte
+Paloquemao,Comuneros,Paloquemao-Ricaurte-Comuneros
+Paloquemao,Guatoque,Paloquemao-Ricaurte-Comuneros-Guatoque
+Paloquemao,San Jose,Paloquemao-Ricaurte-Comuneros-Guatoque-San Jose
+Paloquemao,Hospital,Paloquemao-Ricaurte-Comuneros-Guatoque-San Jose-Hospital
+Paloquemao,Bicentenario,Paloquemao-Ricaurte-Comuneros-Guatoque-San Jose-Hospital-Bicentenario
+Ricaurte,Comuneros,Ricaurte-Comuneros
+Ricaurte,Guatoque,Ricaurte-Comuneros-Guatoque
+Ricaurte,San Jose,Ricaurte-Comuneros-Guatoque-San Jose
+Ricaurte,Hospital,Ricaurte-Comuneros-Guatoque-San Jose-Hospital
+Ricaurte,Bicentenario,Ricaurte-Comuneros-Guatoque-San Jose-Hospital-Bicentenario
+Comuneros,Guatoque,Comuneros-Guatoque
+Comuneros,San Jose,Comuneros-Guatoque-San Jose
+Comuneros,Hospital,Comuneros-Guatoque-San Jose-Hospital
+Comuneros,Bicentenario,Comuneros-Guatoque-San Jose-Hospital-Bicentenario
+Guatoque,San Jose,Guatoque-San Jose
+Guatoque,Hospital,Guatoque-San Jose-Hospital
+Guatoque,Bicentenario,Guatoque-San Jose-Hospital-Bicentenario
+San Jose,Hospital,San Jose-Hospital
+San Jose,Bicentenario,San Jose-Hospital-Bicentenario
+Hospital,Bicentenario,Hospital-Bicentenario
+Portal Americas,Patio Bonito,Portal Americas-Patio Bonito
+Portal Americas,Biblioteca Tintal,Portal Americas-Patio Bonito-Biblioteca Tintal
+Portal Americas,Transversal 86,Portal Americas-Patio Bonito-Biblioteca Tintal-Transversal 86
+Portal Americas,Banderas,Portal Americas-Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas
+Portal Americas,Mandalay,Portal Americas-Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay
+Portal Americas,Mundo Aventura,Portal Americas-Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura
+Portal Americas,Marsella,Portal Americas-Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella
+Portal Americas,Pradera,Portal Americas-Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera
+Portal Americas,Americas KR 53A,Portal Americas-Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A
+Portal Americas,Puente Aranda,Portal Americas-Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda
+Portal Americas,Carrera 43,Portal Americas-Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43
+Portal Americas,Zona Industrial,Portal Americas-Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial
+Portal Americas,CDS Carrera 32,Portal Americas-Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32
+Portal Americas,Ricaurte,Portal Americas-Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte
+Portal Americas,San Falcon,Portal Americas-Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon
+Portal Americas,De La Sabana,Portal Americas-Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana
+Portal Americas,AV Jimenez,Portal Americas-Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana-AV Jimenez
+Patio Bonito,Biblioteca Tintal,Patio Bonito-Biblioteca Tintal
+Patio Bonito,Transversal 86,Patio Bonito-Biblioteca Tintal-Transversal 86
+Patio Bonito,Banderas,Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas
+Patio Bonito,Mandalay,Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay
+Patio Bonito,Mundo Aventura,Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura
+Patio Bonito,Marsella,Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella
+Patio Bonito,Pradera,Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera
+Patio Bonito,Americas KR 53A,Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A
+Patio Bonito,Puente Aranda,Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda
+Patio Bonito,Carrera 43,Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43
+Patio Bonito,Zona Industrial,Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial
+Patio Bonito,CDS Carrera 32,Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32
+Patio Bonito,Ricaurte,Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte
+Patio Bonito,San Falcon,Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon
+Patio Bonito,De La Sabana,Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana
+Patio Bonito,AV Jimenez,Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana-AV Jimenez
+Biblioteca Tintal,Transversal 86,Biblioteca Tintal-Transversal 86
+Biblioteca Tintal,Banderas,Biblioteca Tintal-Transversal 86-Banderas
+Biblioteca Tintal,Mandalay,Biblioteca Tintal-Transversal 86-Banderas-Mandalay
+Biblioteca Tintal,Mundo Aventura,Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura
+Biblioteca Tintal,Marsella,Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella
+Biblioteca Tintal,Pradera,Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera
+Biblioteca Tintal,Americas KR 53A,Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A
+Biblioteca Tintal,Puente Aranda,Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda
+Biblioteca Tintal,Carrera 43,Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43
+Biblioteca Tintal,Zona Industrial,Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial
+Biblioteca Tintal,CDS Carrera 32,Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32
+Biblioteca Tintal,Ricaurte,Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte
+Biblioteca Tintal,San Falcon,Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon
+Biblioteca Tintal,De La Sabana,Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana
+Biblioteca Tintal,AV Jimenez,Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana-AV Jimenez
+Transversal 86,Banderas,Transversal 86-Banderas
+Transversal 86,Mandalay,Transversal 86-Banderas-Mandalay
+Transversal 86,Mundo Aventura,Transversal 86-Banderas-Mandalay-Mundo Aventura
+Transversal 86,Marsella,Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella
+Transversal 86,Pradera,Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera
+Transversal 86,Americas KR 53A,Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A
+Transversal 86,Puente Aranda,Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda
+Transversal 86,Carrera 43,Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43
+Transversal 86,Zona Industrial,Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial
+Transversal 86,CDS Carrera 32,Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32
+Transversal 86,Ricaurte,Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte
+Transversal 86,San Falcon,Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon
+Transversal 86,De La Sabana,Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana
+Transversal 86,AV Jimenez,Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana-AV Jimenez
+Banderas,Mandalay,Banderas-Mandalay
+Banderas,Mundo Aventura,Banderas-Mandalay-Mundo Aventura
+Banderas,Marsella,Banderas-Mandalay-Mundo Aventura-Marsella
+Banderas,Pradera,Banderas-Mandalay-Mundo Aventura-Marsella-Pradera
+Banderas,Americas KR 53A,Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A
+Banderas,Puente Aranda,Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda
+Banderas,Carrera 43,Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43
+Banderas,Zona Industrial,Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial
+Banderas,CDS Carrera 32,Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32
+Banderas,Ricaurte,Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte
+Banderas,San Falcon,Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon
+Banderas,De La Sabana,Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana
+Banderas,AV Jimenez,Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana-AV Jimenez
+Mandalay,Mundo Aventura,Mandalay-Mundo Aventura
+Mandalay,Marsella,Mandalay-Mundo Aventura-Marsella
+Mandalay,Pradera,Mandalay-Mundo Aventura-Marsella-Pradera
+Mandalay,Americas KR 53A,Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A
+Mandalay,Puente Aranda,Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda
+Mandalay,Carrera 43,Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43
+Mandalay,Zona Industrial,Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial
+Mandalay,CDS Carrera 32,Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32
+Mandalay,Ricaurte,Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte
+Mandalay,San Falcon,Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon
+Mandalay,De La Sabana,Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana
+Mandalay,AV Jimenez,Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana-AV Jimenez
+Mundo Aventura,Marsella,Mundo Aventura-Marsella
+Mundo Aventura,Pradera,Mundo Aventura-Marsella-Pradera
+Mundo Aventura,Americas KR 53A,Mundo Aventura-Marsella-Pradera-Americas KR 53A
+Mundo Aventura,Puente Aranda,Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda
+Mundo Aventura,Carrera 43,Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43
+Mundo Aventura,Zona Industrial,Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial
+Mundo Aventura,CDS Carrera 32,Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32
+Mundo Aventura,Ricaurte,Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte
+Mundo Aventura,San Falcon,Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon
+Mundo Aventura,De La Sabana,Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana
+Mundo Aventura,AV Jimenez,Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana-AV Jimenez
+Marsella,Pradera,Marsella-Pradera
+Marsella,Americas KR 53A,Marsella-Pradera-Americas KR 53A
+Marsella,Puente Aranda,Marsella-Pradera-Americas KR 53A-Puente Aranda
+Marsella,Carrera 43,Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43
+Marsella,Zona Industrial,Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial
+Marsella,CDS Carrera 32,Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32
+Marsella,Ricaurte,Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte
+Marsella,San Falcon,Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon
+Marsella,De La Sabana,Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana
+Marsella,AV Jimenez,Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana-AV Jimenez
+Pradera,Americas KR 53A,Pradera-Americas KR 53A
+Pradera,Puente Aranda,Pradera-Americas KR 53A-Puente Aranda
+Pradera,Carrera 43,Pradera-Americas KR 53A-Puente Aranda-Carrera 43
+Pradera,Zona Industrial,Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial
+Pradera,CDS Carrera 32,Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32
+Pradera,Ricaurte,Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte
+Pradera,San Falcon,Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon
+Pradera,De La Sabana,Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana
+Pradera,AV Jimenez,Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana-AV Jimenez
+Americas KR 53A,Puente Aranda,Americas KR 53A-Puente Aranda
+Americas KR 53A,Carrera 43,Americas KR 53A-Puente Aranda-Carrera 43
+Americas KR 53A,Zona Industrial,Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial
+Americas KR 53A,CDS Carrera 32,Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32
+Americas KR 53A,Ricaurte,Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte
+Americas KR 53A,San Falcon,Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon
+Americas KR 53A,De La Sabana,Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana
+Americas KR 53A,AV Jimenez,Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana-AV Jimenez
+Puente Aranda,Carrera 43,Puente Aranda-Carrera 43
+Puente Aranda,Zona Industrial,Puente Aranda-Carrera 43-Zona Industrial
+Puente Aranda,CDS Carrera 32,Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32
+Puente Aranda,Ricaurte,Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte
+Puente Aranda,San Falcon,Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon
+Puente Aranda,De La Sabana,Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana
+Puente Aranda,AV Jimenez,Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana-AV Jimenez
+Carrera 43,Zona Industrial,Carrera 43-Zona Industrial
+Carrera 43,CDS Carrera 32,Carrera 43-Zona Industrial-CDS Carrera 32
+Carrera 43,Ricaurte,Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte
+Carrera 43,San Falcon,Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon
+Carrera 43,De La Sabana,Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana
+Carrera 43,AV Jimenez,Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana-AV Jimenez
+Zona Industrial,CDS Carrera 32,Zona Industrial-CDS Carrera 32
+Zona Industrial,Ricaurte,Zona Industrial-CDS Carrera 32-Ricaurte
+Zona Industrial,San Falcon,Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon
+Zona Industrial,De La Sabana,Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana
+Zona Industrial,AV Jimenez,Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana-AV Jimenez
+CDS Carrera 32,Ricaurte,CDS Carrera 32-Ricaurte
+CDS Carrera 32,San Falcon,CDS Carrera 32-Ricaurte-San Falcon
+CDS Carrera 32,De La Sabana,CDS Carrera 32-Ricaurte-San Falcon-De La Sabana
+CDS Carrera 32,AV Jimenez,CDS Carrera 32-Ricaurte-San Falcon-De La Sabana-AV Jimenez
+Ricaurte,San Falcon,Ricaurte-San Falcon
+Ricaurte,De La Sabana,Ricaurte-San Falcon-De La Sabana
+Ricaurte,AV Jimenez,Ricaurte-San Falcon-De La Sabana-AV Jimenez
+San Falcon,De La Sabana,San Falcon-De La Sabana
+San Falcon,AV Jimenez,San Falcon-De La Sabana-AV Jimenez
+De La Sabana,AV Jimenez,De La Sabana-AV Jimenez
+Portal Americas,Patio Bonito,Portal Americas-Patio Bonito
+Portal Americas,Biblioteca Tintal,Portal Americas-Patio Bonito-Biblioteca Tintal
+Portal Americas,Transversal 86,Portal Americas-Patio Bonito-Biblioteca Tintal-Transversal 86
+Portal Americas,Banderas,Portal Americas-Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas
+Portal Americas,Mandalay,Portal Americas-Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay
+Portal Americas,Mundo Aventura,Portal Americas-Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura
+Portal Americas,Marsella,Portal Americas-Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella
+Portal Americas,Pradera,Portal Americas-Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera
+Portal Americas,Americas KR 53A,Portal Americas-Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A
+Portal Americas,Puente Aranda,Portal Americas-Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda
+Portal Americas,Carrera 43,Portal Americas-Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43
+Portal Americas,Zona Industrial,Portal Americas-Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial
+Portal Americas,CDS Carrera 32,Portal Americas-Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32
+Portal Americas,Ricaurte,Portal Americas-Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte
+Portal Americas,San Falcon,Portal Americas-Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon
+Portal Americas,De La Sabana,Portal Americas-Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana
+Portal Americas,AV Jimenez,Portal Americas-Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana-AV Jimenez
+Patio Bonito,Biblioteca Tintal,Patio Bonito-Biblioteca Tintal
+Patio Bonito,Transversal 86,Patio Bonito-Biblioteca Tintal-Transversal 86
+Patio Bonito,Banderas,Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas
+Patio Bonito,Mandalay,Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay
+Patio Bonito,Mundo Aventura,Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura
+Patio Bonito,Marsella,Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella
+Patio Bonito,Pradera,Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera
+Patio Bonito,Americas KR 53A,Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A
+Patio Bonito,Puente Aranda,Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda
+Patio Bonito,Carrera 43,Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43
+Patio Bonito,Zona Industrial,Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial
+Patio Bonito,CDS Carrera 32,Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32
+Patio Bonito,Ricaurte,Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte
+Patio Bonito,San Falcon,Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon
+Patio Bonito,De La Sabana,Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana
+Patio Bonito,AV Jimenez,Patio Bonito-Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana-AV Jimenez
+Biblioteca Tintal,Transversal 86,Biblioteca Tintal-Transversal 86
+Biblioteca Tintal,Banderas,Biblioteca Tintal-Transversal 86-Banderas
+Biblioteca Tintal,Mandalay,Biblioteca Tintal-Transversal 86-Banderas-Mandalay
+Biblioteca Tintal,Mundo Aventura,Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura
+Biblioteca Tintal,Marsella,Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella
+Biblioteca Tintal,Pradera,Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera
+Biblioteca Tintal,Americas KR 53A,Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A
+Biblioteca Tintal,Puente Aranda,Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda
+Biblioteca Tintal,Carrera 43,Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43
+Biblioteca Tintal,Zona Industrial,Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial
+Biblioteca Tintal,CDS Carrera 32,Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32
+Biblioteca Tintal,Ricaurte,Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte
+Biblioteca Tintal,San Falcon,Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon
+Biblioteca Tintal,De La Sabana,Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana
+Biblioteca Tintal,AV Jimenez,Biblioteca Tintal-Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana-AV Jimenez
+Transversal 86,Banderas,Transversal 86-Banderas
+Transversal 86,Mandalay,Transversal 86-Banderas-Mandalay
+Transversal 86,Mundo Aventura,Transversal 86-Banderas-Mandalay-Mundo Aventura
+Transversal 86,Marsella,Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella
+Transversal 86,Pradera,Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera
+Transversal 86,Americas KR 53A,Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A
+Transversal 86,Puente Aranda,Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda
+Transversal 86,Carrera 43,Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43
+Transversal 86,Zona Industrial,Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial
+Transversal 86,CDS Carrera 32,Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32
+Transversal 86,Ricaurte,Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte
+Transversal 86,San Falcon,Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon
+Transversal 86,De La Sabana,Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana
+Transversal 86,AV Jimenez,Transversal 86-Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana-AV Jimenez
+Banderas,Mandalay,Banderas-Mandalay
+Banderas,Mundo Aventura,Banderas-Mandalay-Mundo Aventura
+Banderas,Marsella,Banderas-Mandalay-Mundo Aventura-Marsella
+Banderas,Pradera,Banderas-Mandalay-Mundo Aventura-Marsella-Pradera
+Banderas,Americas KR 53A,Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A
+Banderas,Puente Aranda,Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda
+Banderas,Carrera 43,Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43
+Banderas,Zona Industrial,Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial
+Banderas,CDS Carrera 32,Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32
+Banderas,Ricaurte,Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte
+Banderas,San Falcon,Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon
+Banderas,De La Sabana,Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana
+Banderas,AV Jimenez,Banderas-Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana-AV Jimenez
+Mandalay,Mundo Aventura,Mandalay-Mundo Aventura
+Mandalay,Marsella,Mandalay-Mundo Aventura-Marsella
+Mandalay,Pradera,Mandalay-Mundo Aventura-Marsella-Pradera
+Mandalay,Americas KR 53A,Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A
+Mandalay,Puente Aranda,Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda
+Mandalay,Carrera 43,Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43
+Mandalay,Zona Industrial,Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial
+Mandalay,CDS Carrera 32,Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32
+Mandalay,Ricaurte,Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte
+Mandalay,San Falcon,Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon
+Mandalay,De La Sabana,Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana
+Mandalay,AV Jimenez,Mandalay-Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana-AV Jimenez
+Mundo Aventura,Marsella,Mundo Aventura-Marsella
+Mundo Aventura,Pradera,Mundo Aventura-Marsella-Pradera
+Mundo Aventura,Americas KR 53A,Mundo Aventura-Marsella-Pradera-Americas KR 53A
+Mundo Aventura,Puente Aranda,Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda
+Mundo Aventura,Carrera 43,Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43
+Mundo Aventura,Zona Industrial,Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial
+Mundo Aventura,CDS Carrera 32,Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32
+Mundo Aventura,Ricaurte,Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte
+Mundo Aventura,San Falcon,Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon
+Mundo Aventura,De La Sabana,Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana
+Mundo Aventura,AV Jimenez,Mundo Aventura-Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana-AV Jimenez
+Marsella,Pradera,Marsella-Pradera
+Marsella,Americas KR 53A,Marsella-Pradera-Americas KR 53A
+Marsella,Puente Aranda,Marsella-Pradera-Americas KR 53A-Puente Aranda
+Marsella,Carrera 43,Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43
+Marsella,Zona Industrial,Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial
+Marsella,CDS Carrera 32,Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32
+Marsella,Ricaurte,Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte
+Marsella,San Falcon,Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon
+Marsella,De La Sabana,Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana
+Marsella,AV Jimenez,Marsella-Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana-AV Jimenez
+Pradera,Americas KR 53A,Pradera-Americas KR 53A
+Pradera,Puente Aranda,Pradera-Americas KR 53A-Puente Aranda
+Pradera,Carrera 43,Pradera-Americas KR 53A-Puente Aranda-Carrera 43
+Pradera,Zona Industrial,Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial
+Pradera,CDS Carrera 32,Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32
+Pradera,Ricaurte,Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte
+Pradera,San Falcon,Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon
+Pradera,De La Sabana,Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana
+Pradera,AV Jimenez,Pradera-Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana-AV Jimenez
+Americas KR 53A,Puente Aranda,Americas KR 53A-Puente Aranda
+Americas KR 53A,Carrera 43,Americas KR 53A-Puente Aranda-Carrera 43
+Americas KR 53A,Zona Industrial,Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial
+Americas KR 53A,CDS Carrera 32,Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32
+Americas KR 53A,Ricaurte,Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte
+Americas KR 53A,San Falcon,Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon
+Americas KR 53A,De La Sabana,Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana
+Americas KR 53A,AV Jimenez,Americas KR 53A-Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana-AV Jimenez
+Puente Aranda,Carrera 43,Puente Aranda-Carrera 43
+Puente Aranda,Zona Industrial,Puente Aranda-Carrera 43-Zona Industrial
+Puente Aranda,CDS Carrera 32,Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32
+Puente Aranda,Ricaurte,Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte
+Puente Aranda,San Falcon,Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon
+Puente Aranda,De La Sabana,Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana
+Puente Aranda,AV Jimenez,Puente Aranda-Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana-AV Jimenez
+Carrera 43,Zona Industrial,Carrera 43-Zona Industrial
+Carrera 43,CDS Carrera 32,Carrera 43-Zona Industrial-CDS Carrera 32
+Carrera 43,Ricaurte,Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte
+Carrera 43,San Falcon,Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon
+Carrera 43,De La Sabana,Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana
+Carrera 43,AV Jimenez,Carrera 43-Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana-AV Jimenez
+Zona Industrial,CDS Carrera 32,Zona Industrial-CDS Carrera 32
+Zona Industrial,Ricaurte,Zona Industrial-CDS Carrera 32-Ricaurte
+Zona Industrial,San Falcon,Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon
+Zona Industrial,De La Sabana,Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana
+Zona Industrial,AV Jimenez,Zona Industrial-CDS Carrera 32-Ricaurte-San Falcon-De La Sabana-AV Jimenez
+CDS Carrera 32,Ricaurte,CDS Carrera 32-Ricaurte
+CDS Carrera 32,San Falcon,CDS Carrera 32-Ricaurte-San Falcon
+CDS Carrera 32,De La Sabana,CDS Carrera 32-Ricaurte-San Falcon-De La Sabana
+CDS Carrera 32,AV Jimenez,CDS Carrera 32-Ricaurte-San Falcon-De La Sabana-AV Jimenez
+Ricaurte,San Falcon,Ricaurte-San Falcon
+Ricaurte,De La Sabana,Ricaurte-San Falcon-De La Sabana
+Ricaurte,AV Jimenez,Ricaurte-San Falcon-De La Sabana-AV Jimenez
+San Falcon,De La Sabana,San Falcon-De La Sabana
+San Falcon,AV Jimenez,San Falcon-De La Sabana-AV Jimenez
+De La Sabana,AV Jimenez,De La Sabana-AV Jimenez
+Comuneros,Santa Isabel,Comuneros-Santa Isabel
+Comuneros,Sena,Comuneros-Santa Isabel-Sena
+Comuneros,NQS CL 30,Comuneros-Santa Isabel-Sena-NQS CL 30
+Comuneros,NQS CL 38A,Comuneros-Santa Isabel-Sena-NQS CL 30-NQS CL 38A
+Comuneros,General Santander,Comuneros-Santa Isabel-Sena-NQS CL 30-NQS CL 38A-General Santander
+Comuneros,Alqueria,Comuneros-Santa Isabel-Sena-NQS CL 30-NQS CL 38A-General Santander-Alqueria
+Comuneros,Venecia,Comuneros-Santa Isabel-Sena-NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia
+Comuneros,Sevillana,Comuneros-Santa Isabel-Sena-NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana
+Comuneros,Madelena,Comuneros-Santa Isabel-Sena-NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena
+Comuneros,Perdomo,Comuneros-Santa Isabel-Sena-NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo
+Comuneros,Portal del Sur,Comuneros-Santa Isabel-Sena-NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur
+Comuneros,Bosa,Comuneros-Santa Isabel-Sena-NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa
+Comuneros,La Despensa,Comuneros-Santa Isabel-Sena-NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa-La Despensa
+Comuneros,Leon XIII,Comuneros-Santa Isabel-Sena-NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa-La Despensa-Leon XIII
+Comuneros,Terreros,Comuneros-Santa Isabel-Sena-NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa-La Despensa-Leon XIII-Terreros
+Comuneros,San Mateo,Comuneros-Santa Isabel-Sena-NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa-La Despensa-Leon XIII-Terreros-San Mateo
+Santa Isabel,Sena,Santa Isabel-Sena
+Santa Isabel,NQS CL 30,Santa Isabel-Sena-NQS CL 30
+Santa Isabel,NQS CL 38A,Santa Isabel-Sena-NQS CL 30-NQS CL 38A
+Santa Isabel,General Santander,Santa Isabel-Sena-NQS CL 30-NQS CL 38A-General Santander
+Santa Isabel,Alqueria,Santa Isabel-Sena-NQS CL 30-NQS CL 38A-General Santander-Alqueria
+Santa Isabel,Venecia,Santa Isabel-Sena-NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia
+Santa Isabel,Sevillana,Santa Isabel-Sena-NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana
+Santa Isabel,Madelena,Santa Isabel-Sena-NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena
+Santa Isabel,Perdomo,Santa Isabel-Sena-NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo
+Santa Isabel,Portal del Sur,Santa Isabel-Sena-NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur
+Santa Isabel,Bosa,Santa Isabel-Sena-NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa
+Santa Isabel,La Despensa,Santa Isabel-Sena-NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa-La Despensa
+Santa Isabel,Leon XIII,Santa Isabel-Sena-NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa-La Despensa-Leon XIII
+Santa Isabel,Terreros,Santa Isabel-Sena-NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa-La Despensa-Leon XIII-Terreros
+Santa Isabel,San Mateo,Santa Isabel-Sena-NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa-La Despensa-Leon XIII-Terreros-San Mateo
+Sena,NQS CL 30,Sena-NQS CL 30
+Sena,NQS CL 38A,Sena-NQS CL 30-NQS CL 38A
+Sena,General Santander,Sena-NQS CL 30-NQS CL 38A-General Santander
+Sena,Alqueria,Sena-NQS CL 30-NQS CL 38A-General Santander-Alqueria
+Sena,Venecia,Sena-NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia
+Sena,Sevillana,Sena-NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana
+Sena,Madelena,Sena-NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena
+Sena,Perdomo,Sena-NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo
+Sena,Portal del Sur,Sena-NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur
+Sena,Bosa,Sena-NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa
+Sena,La Despensa,Sena-NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa-La Despensa
+Sena,Leon XIII,Sena-NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa-La Despensa-Leon XIII
+Sena,Terreros,Sena-NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa-La Despensa-Leon XIII-Terreros
+Sena,San Mateo,Sena-NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa-La Despensa-Leon XIII-Terreros-San Mateo
+NQS CL 30,NQS CL 38A,NQS CL 30-NQS CL 38A
+NQS CL 30,General Santander,NQS CL 30-NQS CL 38A-General Santander
+NQS CL 30,Alqueria,NQS CL 30-NQS CL 38A-General Santander-Alqueria
+NQS CL 30,Venecia,NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia
+NQS CL 30,Sevillana,NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana
+NQS CL 30,Madelena,NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena
+NQS CL 30,Perdomo,NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo
+NQS CL 30,Portal del Sur,NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur
+NQS CL 30,Bosa,NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa
+NQS CL 30,La Despensa,NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa-La Despensa
+NQS CL 30,Leon XIII,NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa-La Despensa-Leon XIII
+NQS CL 30,Terreros,NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa-La Despensa-Leon XIII-Terreros
+NQS CL 30,San Mateo,NQS CL 30-NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa-La Despensa-Leon XIII-Terreros-San Mateo
+NQS CL 38A,General Santander,NQS CL 38A-General Santander
+NQS CL 38A,Alqueria,NQS CL 38A-General Santander-Alqueria
+NQS CL 38A,Venecia,NQS CL 38A-General Santander-Alqueria-Venecia
+NQS CL 38A,Sevillana,NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana
+NQS CL 38A,Madelena,NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena
+NQS CL 38A,Perdomo,NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo
+NQS CL 38A,Portal del Sur,NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur
+NQS CL 38A,Bosa,NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa
+NQS CL 38A,La Despensa,NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa-La Despensa
+NQS CL 38A,Leon XIII,NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa-La Despensa-Leon XIII
+NQS CL 38A,Terreros,NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa-La Despensa-Leon XIII-Terreros
+NQS CL 38A,San Mateo,NQS CL 38A-General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa-La Despensa-Leon XIII-Terreros-San Mateo
+General Santander,Alqueria,General Santander-Alqueria
+General Santander,Venecia,General Santander-Alqueria-Venecia
+General Santander,Sevillana,General Santander-Alqueria-Venecia-Sevillana
+General Santander,Madelena,General Santander-Alqueria-Venecia-Sevillana-Madelena
+General Santander,Perdomo,General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo
+General Santander,Portal del Sur,General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur
+General Santander,Bosa,General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa
+General Santander,La Despensa,General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa-La Despensa
+General Santander,Leon XIII,General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa-La Despensa-Leon XIII
+General Santander,Terreros,General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa-La Despensa-Leon XIII-Terreros
+General Santander,San Mateo,General Santander-Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa-La Despensa-Leon XIII-Terreros-San Mateo
+Alqueria,Venecia,Alqueria-Venecia
+Alqueria,Sevillana,Alqueria-Venecia-Sevillana
+Alqueria,Madelena,Alqueria-Venecia-Sevillana-Madelena
+Alqueria,Perdomo,Alqueria-Venecia-Sevillana-Madelena-Perdomo
+Alqueria,Portal del Sur,Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur
+Alqueria,Bosa,Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa
+Alqueria,La Despensa,Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa-La Despensa
+Alqueria,Leon XIII,Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa-La Despensa-Leon XIII
+Alqueria,Terreros,Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa-La Despensa-Leon XIII-Terreros
+Alqueria,San Mateo,Alqueria-Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa-La Despensa-Leon XIII-Terreros-San Mateo
+Venecia,Sevillana,Venecia-Sevillana
+Venecia,Madelena,Venecia-Sevillana-Madelena
+Venecia,Perdomo,Venecia-Sevillana-Madelena-Perdomo
+Venecia,Portal del Sur,Venecia-Sevillana-Madelena-Perdomo-Portal del Sur
+Venecia,Bosa,Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa
+Venecia,La Despensa,Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa-La Despensa
+Venecia,Leon XIII,Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa-La Despensa-Leon XIII
+Venecia,Terreros,Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa-La Despensa-Leon XIII-Terreros
+Venecia,San Mateo,Venecia-Sevillana-Madelena-Perdomo-Portal del Sur-Bosa-La Despensa-Leon XIII-Terreros-San Mateo
+Sevillana,Madelena,Sevillana-Madelena
+Sevillana,Perdomo,Sevillana-Madelena-Perdomo
+Sevillana,Portal del Sur,Sevillana-Madelena-Perdomo-Portal del Sur
+Sevillana,Bosa,Sevillana-Madelena-Perdomo-Portal del Sur-Bosa
+Sevillana,La Despensa,Sevillana-Madelena-Perdomo-Portal del Sur-Bosa-La Despensa
+Sevillana,Leon XIII,Sevillana-Madelena-Perdomo-Portal del Sur-Bosa-La Despensa-Leon XIII
+Sevillana,Terreros,Sevillana-Madelena-Perdomo-Portal del Sur-Bosa-La Despensa-Leon XIII-Terreros
+Sevillana,San Mateo,Sevillana-Madelena-Perdomo-Portal del Sur-Bosa-La Despensa-Leon XIII-Terreros-San Mateo
+Madelena,Perdomo,Madelena-Perdomo
+Madelena,Portal del Sur,Madelena-Perdomo-Portal del Sur
+Madelena,Bosa,Madelena-Perdomo-Portal del Sur-Bosa
+Madelena,La Despensa,Madelena-Perdomo-Portal del Sur-Bosa-La Despensa
+Madelena,Leon XIII,Madelena-Perdomo-Portal del Sur-Bosa-La Despensa-Leon XIII
+Madelena,Terreros,Madelena-Perdomo-Portal del Sur-Bosa-La Despensa-Leon XIII-Terreros
+Madelena,San Mateo,Madelena-Perdomo-Portal del Sur-Bosa-La Despensa-Leon XIII-Terreros-San Mateo
+Perdomo,Portal del Sur,Perdomo-Portal del Sur
+Perdomo,Bosa,Perdomo-Portal del Sur-Bosa
+Perdomo,La Despensa,Perdomo-Portal del Sur-Bosa-La Despensa
+Perdomo,Leon XIII,Perdomo-Portal del Sur-Bosa-La Despensa-Leon XIII
+Perdomo,Terreros,Perdomo-Portal del Sur-Bosa-La Despensa-Leon XIII-Terreros
+Perdomo,San Mateo,Perdomo-Portal del Sur-Bosa-La Despensa-Leon XIII-Terreros-San Mateo
+Portal del Sur,Bosa,Portal del Sur-Bosa
+Portal del Sur,La Despensa,Portal del Sur-Bosa-La Despensa
+Portal del Sur,Leon XIII,Portal del Sur-Bosa-La Despensa-Leon XIII
+Portal del Sur,Terreros,Portal del Sur-Bosa-La Despensa-Leon XIII-Terreros
+Portal del Sur,San Mateo,Portal del Sur-Bosa-La Despensa-Leon XIII-Terreros-San Mateo
+Bosa,La Despensa,Bosa-La Despensa
+Bosa,Leon XIII,Bosa-La Despensa-Leon XIII
+Bosa,Terreros,Bosa-La Despensa-Leon XIII-Terreros
+Bosa,San Mateo,Bosa-La Despensa-Leon XIII-Terreros-San Mateo
+La Despensa,Leon XIII,La Despensa-Leon XIII
+La Despensa,Terreros,La Despensa-Leon XIII-Terreros
+La Despensa,San Mateo,La Despensa-Leon XIII-Terreros-San Mateo
+Leon XIII,Terreros,Leon XIII-Terreros
+Leon XIII,San Mateo,Leon XIII-Terreros-San Mateo
+Terreros,San Mateo,Terreros-San Mateo
+Tercer Milenio,Hospital,Tercer Milenio-Hospital
+Tercer Milenio,Hortua,Tercer Milenio-Hospital-Hortua
+Tercer Milenio,Nariño,Tercer Milenio-Hospital-Hortua-Nariño
+Tercer Milenio,Fucha,Tercer Milenio-Hospital-Hortua-Nariño-Fucha
+Tercer Milenio,Restrepo,Tercer Milenio-Hospital-Hortua-Nariño-Fucha-Restrepo
+Tercer Milenio,Olaya,Tercer Milenio-Hospital-Hortua-Nariño-Fucha-Restrepo-Olaya
+Tercer Milenio,Quiroga,Tercer Milenio-Hospital-Hortua-Nariño-Fucha-Restrepo-Olaya-Quiroga
+Tercer Milenio,Calle 40,Tercer Milenio-Hospital-Hortua-Nariño-Fucha-Restrepo-Olaya-Quiroga-Calle 40
+Tercer Milenio,Santa Lucia,Tercer Milenio-Hospital-Hortua-Nariño-Fucha-Restrepo-Olaya-Quiroga-Calle 40-Santa Lucia
+Tercer Milenio,Socorro,Tercer Milenio-Hospital-Hortua-Nariño-Fucha-Restrepo-Olaya-Quiroga-Calle 40-Santa Lucia-Socorro
+Tercer Milenio,Consuelo,Tercer Milenio-Hospital-Hortua-Nariño-Fucha-Restrepo-Olaya-Quiroga-Calle 40-Santa Lucia-Socorro-Consuelo
+Tercer Milenio,Molinos,Tercer Milenio-Hospital-Hortua-Nariño-Fucha-Restrepo-Olaya-Quiroga-Calle 40-Santa Lucia-Socorro-Consuelo-Molinos
+Tercer Milenio,Portal de Usme,Tercer Milenio-Hospital-Hortua-Nariño-Fucha-Restrepo-Olaya-Quiroga-Calle 40-Santa Lucia-Socorro-Consuelo-Molinos-Portal de Usme
+Hospital,Hortua,Hospital-Hortua
+Hospital,Nariño,Hospital-Hortua-Nariño
+Hospital,Fucha,Hospital-Hortua-Nariño-Fucha
+Hospital,Restrepo,Hospital-Hortua-Nariño-Fucha-Restrepo
+Hospital,Olaya,Hospital-Hortua-Nariño-Fucha-Restrepo-Olaya
+Hospital,Quiroga,Hospital-Hortua-Nariño-Fucha-Restrepo-Olaya-Quiroga
+Hospital,Calle 40,Hospital-Hortua-Nariño-Fucha-Restrepo-Olaya-Quiroga-Calle 40
+Hospital,Santa Lucia,Hospital-Hortua-Nariño-Fucha-Restrepo-Olaya-Quiroga-Calle 40-Santa Lucia
+Hospital,Socorro,Hospital-Hortua-Nariño-Fucha-Restrepo-Olaya-Quiroga-Calle 40-Santa Lucia-Socorro
+Hospital,Consuelo,Hospital-Hortua-Nariño-Fucha-Restrepo-Olaya-Quiroga-Calle 40-Santa Lucia-Socorro-Consuelo
+Hospital,Molinos,Hospital-Hortua-Nariño-Fucha-Restrepo-Olaya-Quiroga-Calle 40-Santa Lucia-Socorro-Consuelo-Molinos
+Hospital,Portal de Usme,Hospital-Hortua-Nariño-Fucha-Restrepo-Olaya-Quiroga-Calle 40-Santa Lucia-Socorro-Consuelo-Molinos-Portal de Usme
+Hortua,Nariño,Hortua-Nariño
+Hortua,Fucha,Hortua-Nariño-Fucha
+Hortua,Restrepo,Hortua-Nariño-Fucha-Restrepo
+Hortua,Olaya,Hortua-Nariño-Fucha-Restrepo-Olaya
+Hortua,Quiroga,Hortua-Nariño-Fucha-Restrepo-Olaya-Quiroga
+Hortua,Calle 40,Hortua-Nariño-Fucha-Restrepo-Olaya-Quiroga-Calle 40
+Hortua,Santa Lucia,Hortua-Nariño-Fucha-Restrepo-Olaya-Quiroga-Calle 40-Santa Lucia
+Hortua,Socorro,Hortua-Nariño-Fucha-Restrepo-Olaya-Quiroga-Calle 40-Santa Lucia-Socorro
+Hortua,Consuelo,Hortua-Nariño-Fucha-Restrepo-Olaya-Quiroga-Calle 40-Santa Lucia-Socorro-Consuelo
+Hortua,Molinos,Hortua-Nariño-Fucha-Restrepo-Olaya-Quiroga-Calle 40-Santa Lucia-Socorro-Consuelo-Molinos
+Hortua,Portal de Usme,Hortua-Nariño-Fucha-Restrepo-Olaya-Quiroga-Calle 40-Santa Lucia-Socorro-Consuelo-Molinos-Portal de Usme
+Nariño,Fucha,Nariño-Fucha
+Nariño,Restrepo,Nariño-Fucha-Restrepo
+Nariño,Olaya,Nariño-Fucha-Restrepo-Olaya
+Nariño,Quiroga,Nariño-Fucha-Restrepo-Olaya-Quiroga
+Nariño,Calle 40,Nariño-Fucha-Restrepo-Olaya-Quiroga-Calle 40
+Nariño,Santa Lucia,Nariño-Fucha-Restrepo-Olaya-Quiroga-Calle 40-Santa Lucia
+Nariño,Socorro,Nariño-Fucha-Restrepo-Olaya-Quiroga-Calle 40-Santa Lucia-Socorro
+Nariño,Consuelo,Nariño-Fucha-Restrepo-Olaya-Quiroga-Calle 40-Santa Lucia-Socorro-Consuelo
+Nariño,Molinos,Nariño-Fucha-Restrepo-Olaya-Quiroga-Calle 40-Santa Lucia-Socorro-Consuelo-Molinos
+Nariño,Portal de Usme,Nariño-Fucha-Restrepo-Olaya-Quiroga-Calle 40-Santa Lucia-Socorro-Consuelo-Molinos-Portal de Usme
+Fucha,Restrepo,Fucha-Restrepo
+Fucha,Olaya,Fucha-Restrepo-Olaya
+Fucha,Quiroga,Fucha-Restrepo-Olaya-Quiroga
+Fucha,Calle 40,Fucha-Restrepo-Olaya-Quiroga-Calle 40
+Fucha,Santa Lucia,Fucha-Restrepo-Olaya-Quiroga-Calle 40-Santa Lucia
+Fucha,Socorro,Fucha-Restrepo-Olaya-Quiroga-Calle 40-Santa Lucia-Socorro
+Fucha,Consuelo,Fucha-Restrepo-Olaya-Quiroga-Calle 40-Santa Lucia-Socorro-Consuelo
+Fucha,Molinos,Fucha-Restrepo-Olaya-Quiroga-Calle 40-Santa Lucia-Socorro-Consuelo-Molinos
+Fucha,Portal de Usme,Fucha-Restrepo-Olaya-Quiroga-Calle 40-Santa Lucia-Socorro-Consuelo-Molinos-Portal de Usme
+Restrepo,Olaya,Restrepo-Olaya
+Restrepo,Quiroga,Restrepo-Olaya-Quiroga
+Restrepo,Calle 40,Restrepo-Olaya-Quiroga-Calle 40
+Restrepo,Santa Lucia,Restrepo-Olaya-Quiroga-Calle 40-Santa Lucia
+Restrepo,Socorro,Restrepo-Olaya-Quiroga-Calle 40-Santa Lucia-Socorro
+Restrepo,Consuelo,Restrepo-Olaya-Quiroga-Calle 40-Santa Lucia-Socorro-Consuelo
+Restrepo,Molinos,Restrepo-Olaya-Quiroga-Calle 40-Santa Lucia-Socorro-Consuelo-Molinos
+Restrepo,Portal de Usme,Restrepo-Olaya-Quiroga-Calle 40-Santa Lucia-Socorro-Consuelo-Molinos-Portal de Usme
+Olaya,Quiroga,Olaya-Quiroga
+Olaya,Calle 40,Olaya-Quiroga-Calle 40
+Olaya,Santa Lucia,Olaya-Quiroga-Calle 40-Santa Lucia
+Olaya,Socorro,Olaya-Quiroga-Calle 40-Santa Lucia-Socorro
+Olaya,Consuelo,Olaya-Quiroga-Calle 40-Santa Lucia-Socorro-Consuelo
+Olaya,Molinos,Olaya-Quiroga-Calle 40-Santa Lucia-Socorro-Consuelo-Molinos
+Olaya,Portal de Usme,Olaya-Quiroga-Calle 40-Santa Lucia-Socorro-Consuelo-Molinos-Portal de Usme
+Quiroga,Calle 40,Quiroga-Calle 40
+Quiroga,Santa Lucia,Quiroga-Calle 40-Santa Lucia
+Quiroga,Socorro,Quiroga-Calle 40-Santa Lucia-Socorro
+Quiroga,Consuelo,Quiroga-Calle 40-Santa Lucia-Socorro-Consuelo
+Quiroga,Molinos,Quiroga-Calle 40-Santa Lucia-Socorro-Consuelo-Molinos
+Quiroga,Portal de Usme,Quiroga-Calle 40-Santa Lucia-Socorro-Consuelo-Molinos-Portal de Usme
+Calle 40,Santa Lucia,Calle 40-Santa Lucia
+Calle 40,Socorro,Calle 40-Santa Lucia-Socorro
+Calle 40,Consuelo,Calle 40-Santa Lucia-Socorro-Consuelo
+Calle 40,Molinos,Calle 40-Santa Lucia-Socorro-Consuelo-Molinos
+Calle 40,Portal de Usme,Calle 40-Santa Lucia-Socorro-Consuelo-Molinos-Portal de Usme
+Santa Lucia,Socorro,Santa Lucia-Socorro
+Santa Lucia,Consuelo,Santa Lucia-Socorro-Consuelo
+Santa Lucia,Molinos,Santa Lucia-Socorro-Consuelo-Molinos
+Santa Lucia,Portal de Usme,Santa Lucia-Socorro-Consuelo-Molinos-Portal de Usme
+Socorro,Consuelo,Socorro-Consuelo
+Socorro,Molinos,Socorro-Consuelo-Molinos
+Socorro,Portal de Usme,Socorro-Consuelo-Molinos-Portal de Usme
+Consuelo,Molinos,Consuelo-Molinos
+Consuelo,Portal de Usme,Consuelo-Molinos-Portal de Usme
+Molinos,Portal de Usme,Molinos-Portal de Usme
+Univerdiades,Las Aguas,Univerdiades-Las Aguas
+Univerdiades,Museo del Oro,Univerdiades-Las Aguas-Museo del Oro
+Univerdiades,AV jimenez,Univerdiades-Las Aguas-Museo del Oro-AV jimenez
+Las Aguas,Museo del Oro,Las Aguas-Museo del Oro
+Las Aguas,AV jimenez,Las Aguas-Museo del Oro-AV jimenez
+Museo del Oro,AV jimenez,Museo del Oro-AV jimenez
+Portal El Dorado,Modelia,Portal El Dorado-Modelia
+Portal El Dorado,Normandia,Portal El Dorado-Modelia-Normandia
+Portal El Dorado,AV Rojas,Portal El Dorado-Modelia-Normandia-AV Rojas
+Portal El Dorado,El Tiempo,Portal El Dorado-Modelia-Normandia-AV Rojas-El Tiempo
+Portal El Dorado,Salitre,Portal El Dorado-Modelia-Normandia-AV Rojas-El Tiempo-Salitre
+Portal El Dorado,CAN,Portal El Dorado-Modelia-Normandia-AV Rojas-El Tiempo-Salitre-CAN
+Portal El Dorado,Gobernacion,Portal El Dorado-Modelia-Normandia-AV Rojas-El Tiempo-Salitre-CAN-Gobernacion
+Portal El Dorado,Quinta Paredes,Portal El Dorado-Modelia-Normandia-AV Rojas-El Tiempo-Salitre-CAN-Gobernacion-Quinta Paredes
+Portal El Dorado,Corferias,Portal El Dorado-Modelia-Normandia-AV Rojas-El Tiempo-Salitre-CAN-Gobernacion-Quinta Paredes-Corferias
+Portal El Dorado,Ciudad Universitaria,Portal El Dorado-Modelia-Normandia-AV Rojas-El Tiempo-Salitre-CAN-Gobernacion-Quinta Paredes-Corferias-Ciudad Universitaria
+Portal El Dorado,Plaza de la Democracia,Portal El Dorado-Modelia-Normandia-AV Rojas-El Tiempo-Salitre-CAN-Gobernacion-Quinta Paredes-Corferias-Ciudad Universitaria-Plaza de la Democracia
+Portal El Dorado,Centro Memoria,Portal El Dorado-Modelia-Normandia-AV Rojas-El Tiempo-Salitre-CAN-Gobernacion-Quinta Paredes-Corferias-Ciudad Universitaria-Plaza de la Democracia-Centro Memoria
+Portal El Dorado,Universidades,Portal El Dorado-Modelia-Normandia-AV Rojas-El Tiempo-Salitre-CAN-Gobernacion-Quinta Paredes-Corferias-Ciudad Universitaria-Plaza de la Democracia-Centro Memoria-Universidades
+Modelia,Normandia,Modelia-Normandia
+Modelia,AV Rojas,Modelia-Normandia-AV Rojas
+Modelia,El Tiempo,Modelia-Normandia-AV Rojas-El Tiempo
+Modelia,Salitre,Modelia-Normandia-AV Rojas-El Tiempo-Salitre
+Modelia,CAN,Modelia-Normandia-AV Rojas-El Tiempo-Salitre-CAN
+Modelia,Gobernacion,Modelia-Normandia-AV Rojas-El Tiempo-Salitre-CAN-Gobernacion
+Modelia,Quinta Paredes,Modelia-Normandia-AV Rojas-El Tiempo-Salitre-CAN-Gobernacion-Quinta Paredes
+Modelia,Corferias,Modelia-Normandia-AV Rojas-El Tiempo-Salitre-CAN-Gobernacion-Quinta Paredes-Corferias
+Modelia,Ciudad Universitaria,Modelia-Normandia-AV Rojas-El Tiempo-Salitre-CAN-Gobernacion-Quinta Paredes-Corferias-Ciudad Universitaria
+Modelia,Plaza de la Democracia,Modelia-Normandia-AV Rojas-El Tiempo-Salitre-CAN-Gobernacion-Quinta Paredes-Corferias-Ciudad Universitaria-Plaza de la Democracia
+Modelia,Centro Memoria,Modelia-Normandia-AV Rojas-El Tiempo-Salitre-CAN-Gobernacion-Quinta Paredes-Corferias-Ciudad Universitaria-Plaza de la Democracia-Centro Memoria
+Modelia,Universidades,Modelia-Normandia-AV Rojas-El Tiempo-Salitre-CAN-Gobernacion-Quinta Paredes-Corferias-Ciudad Universitaria-Plaza de la Democracia-Centro Memoria-Universidades
+Normandia,AV Rojas,Normandia-AV Rojas
+Normandia,El Tiempo,Normandia-AV Rojas-El Tiempo
+Normandia,Salitre,Normandia-AV Rojas-El Tiempo-Salitre
+Normandia,CAN,Normandia-AV Rojas-El Tiempo-Salitre-CAN
+Normandia,Gobernacion,Normandia-AV Rojas-El Tiempo-Salitre-CAN-Gobernacion
+Normandia,Quinta Paredes,Normandia-AV Rojas-El Tiempo-Salitre-CAN-Gobernacion-Quinta Paredes
+Normandia,Corferias,Normandia-AV Rojas-El Tiempo-Salitre-CAN-Gobernacion-Quinta Paredes-Corferias
+Normandia,Ciudad Universitaria,Normandia-AV Rojas-El Tiempo-Salitre-CAN-Gobernacion-Quinta Paredes-Corferias-Ciudad Universitaria
+Normandia,Plaza de la Democracia,Normandia-AV Rojas-El Tiempo-Salitre-CAN-Gobernacion-Quinta Paredes-Corferias-Ciudad Universitaria-Plaza de la Democracia
+Normandia,Centro Memoria,Normandia-AV Rojas-El Tiempo-Salitre-CAN-Gobernacion-Quinta Paredes-Corferias-Ciudad Universitaria-Plaza de la Democracia-Centro Memoria
+Normandia,Universidades,Normandia-AV Rojas-El Tiempo-Salitre-CAN-Gobernacion-Quinta Paredes-Corferias-Ciudad Universitaria-Plaza de la Democracia-Centro Memoria-Universidades
+AV Rojas,El Tiempo,AV Rojas-El Tiempo
+AV Rojas,Salitre,AV Rojas-El Tiempo-Salitre
+AV Rojas,CAN,AV Rojas-El Tiempo-Salitre-CAN
+AV Rojas,Gobernacion,AV Rojas-El Tiempo-Salitre-CAN-Gobernacion
+AV Rojas,Quinta Paredes,AV Rojas-El Tiempo-Salitre-CAN-Gobernacion-Quinta Paredes
+AV Rojas,Corferias,AV Rojas-El Tiempo-Salitre-CAN-Gobernacion-Quinta Paredes-Corferias
+AV Rojas,Ciudad Universitaria,AV Rojas-El Tiempo-Salitre-CAN-Gobernacion-Quinta Paredes-Corferias-Ciudad Universitaria
+AV Rojas,Plaza de la Democracia,AV Rojas-El Tiempo-Salitre-CAN-Gobernacion-Quinta Paredes-Corferias-Ciudad Universitaria-Plaza de la Democracia
+AV Rojas,Centro Memoria,AV Rojas-El Tiempo-Salitre-CAN-Gobernacion-Quinta Paredes-Corferias-Ciudad Universitaria-Plaza de la Democracia-Centro Memoria
+AV Rojas,Universidades,AV Rojas-El Tiempo-Salitre-CAN-Gobernacion-Quinta Paredes-Corferias-Ciudad Universitaria-Plaza de la Democracia-Centro Memoria-Universidades
+El Tiempo,Salitre,El Tiempo-Salitre
+El Tiempo,CAN,El Tiempo-Salitre-CAN
+El Tiempo,Gobernacion,El Tiempo-Salitre-CAN-Gobernacion
+El Tiempo,Quinta Paredes,El Tiempo-Salitre-CAN-Gobernacion-Quinta Paredes
+El Tiempo,Corferias,El Tiempo-Salitre-CAN-Gobernacion-Quinta Paredes-Corferias
+El Tiempo,Ciudad Universitaria,El Tiempo-Salitre-CAN-Gobernacion-Quinta Paredes-Corferias-Ciudad Universitaria
+El Tiempo,Plaza de la Democracia,El Tiempo-Salitre-CAN-Gobernacion-Quinta Paredes-Corferias-Ciudad Universitaria-Plaza de la Democracia
+El Tiempo,Centro Memoria,El Tiempo-Salitre-CAN-Gobernacion-Quinta Paredes-Corferias-Ciudad Universitaria-Plaza de la Democracia-Centro Memoria
+El Tiempo,Universidades,El Tiempo-Salitre-CAN-Gobernacion-Quinta Paredes-Corferias-Ciudad Universitaria-Plaza de la Democracia-Centro Memoria-Universidades
+Salitre,CAN,Salitre-CAN
+Salitre,Gobernacion,Salitre-CAN-Gobernacion
+Salitre,Quinta Paredes,Salitre-CAN-Gobernacion-Quinta Paredes
+Salitre,Corferias,Salitre-CAN-Gobernacion-Quinta Paredes-Corferias
+Salitre,Ciudad Universitaria,Salitre-CAN-Gobernacion-Quinta Paredes-Corferias-Ciudad Universitaria
+Salitre,Plaza de la Democracia,Salitre-CAN-Gobernacion-Quinta Paredes-Corferias-Ciudad Universitaria-Plaza de la Democracia
+Salitre,Centro Memoria,Salitre-CAN-Gobernacion-Quinta Paredes-Corferias-Ciudad Universitaria-Plaza de la Democracia-Centro Memoria
+Salitre,Universidades,Salitre-CAN-Gobernacion-Quinta Paredes-Corferias-Ciudad Universitaria-Plaza de la Democracia-Centro Memoria-Universidades
+CAN,Gobernacion,CAN-Gobernacion
+CAN,Quinta Paredes,CAN-Gobernacion-Quinta Paredes
+CAN,Corferias,CAN-Gobernacion-Quinta Paredes-Corferias
+CAN,Ciudad Universitaria,CAN-Gobernacion-Quinta Paredes-Corferias-Ciudad Universitaria
+CAN,Plaza de la Democracia,CAN-Gobernacion-Quinta Paredes-Corferias-Ciudad Universitaria-Plaza de la Democracia
+CAN,Centro Memoria,CAN-Gobernacion-Quinta Paredes-Corferias-Ciudad Universitaria-Plaza de la Democracia-Centro Memoria
+CAN,Universidades,CAN-Gobernacion-Quinta Paredes-Corferias-Ciudad Universitaria-Plaza de la Democracia-Centro Memoria-Universidades
+Gobernacion,Quinta Paredes,Gobernacion-Quinta Paredes
+Gobernacion,Corferias,Gobernacion-Quinta Paredes-Corferias
+Gobernacion,Ciudad Universitaria,Gobernacion-Quinta Paredes-Corferias-Ciudad Universitaria
+Gobernacion,Plaza de la Democracia,Gobernacion-Quinta Paredes-Corferias-Ciudad Universitaria-Plaza de la Democracia
+Gobernacion,Centro Memoria,Gobernacion-Quinta Paredes-Corferias-Ciudad Universitaria-Plaza de la Democracia-Centro Memoria
+Gobernacion,Universidades,Gobernacion-Quinta Paredes-Corferias-Ciudad Universitaria-Plaza de la Democracia-Centro Memoria-Universidades
+Quinta Paredes,Corferias,Quinta Paredes-Corferias
+Quinta Paredes,Ciudad Universitaria,Quinta Paredes-Corferias-Ciudad Universitaria
+Quinta Paredes,Plaza de la Democracia,Quinta Paredes-Corferias-Ciudad Universitaria-Plaza de la Democracia
+Quinta Paredes,Centro Memoria,Quinta Paredes-Corferias-Ciudad Universitaria-Plaza de la Democracia-Centro Memoria
+Quinta Paredes,Universidades,Quinta Paredes-Corferias-Ciudad Universitaria-Plaza de la Democracia-Centro Memoria-Universidades
+Corferias,Ciudad Universitaria,Corferias-Ciudad Universitaria
+Corferias,Plaza de la Democracia,Corferias-Ciudad Universitaria-Plaza de la Democracia
+Corferias,Centro Memoria,Corferias-Ciudad Universitaria-Plaza de la Democracia-Centro Memoria
+Corferias,Universidades,Corferias-Ciudad Universitaria-Plaza de la Democracia-Centro Memoria-Universidades
+Ciudad Universitaria,Plaza de la Democracia,Ciudad Universitaria-Plaza de la Democracia
+Ciudad Universitaria,Centro Memoria,Ciudad Universitaria-Plaza de la Democracia-Centro Memoria
+Ciudad Universitaria,Universidades,Ciudad Universitaria-Plaza de la Democracia-Centro Memoria-Universidades
+Plaza de la Democracia,Centro Memoria,Plaza de la Democracia-Centro Memoria
+Plaza de la Democracia,Universidades,Plaza de la Democracia-Centro Memoria-Universidades
+Centro Memoria,Universidades,Centro Memoria-Universidades
